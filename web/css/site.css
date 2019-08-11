@@ -119,3 +119,7 @@ a.desc:after {
     margin-right: 0;
     width: 100%;
 }
+.my-sidebar {
+    background-color: antiquewhite;
+    position: fixed;
+}

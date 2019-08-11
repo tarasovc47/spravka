@@ -61,6 +61,21 @@ class Rkphones extends \yii\db\ActiveRecord
         ];
     }
 
+    public static function rkphonesQueryArray()
+    {
+        $companies_array = (new Query())
+            ->select('department')
+            ->from('rkphones')
+            ->groupBy('department')
+            ->all();
+        return $companies_array;
+    }
+    public static function rkphonesCompanyName()
+    {
+        $company_name = ArrayHelper::getColumn(self::rkphonesQueryArray(),'department');
+        return $company_name;
+    }
+
     public static function renderTable()
     {
         $sort = new Sort([
@@ -70,16 +85,8 @@ class Rkphones extends \yii\db\ActiveRecord
                         ]
                 ]
         ]);
-        /*$companies_array = Rkphones::find()->groupBy('department');*/
-        $companies_array = (new Query())
-            ->select('department')
-            ->from('rkphones')
-            ->groupBy('department')
-            ->all();
-        /*print_r(array_column($companies_array, 'department'));*/
-        $company_name = ArrayHelper::getColumn($companies_array,'department');
 
-        foreach ($company_name as $company) {?>
+        foreach (self::rkphonesCompanyName() as $company) {?>
             <table class="table" id="sql_<?= $company ?>">
                 <caption><?= $company ?></caption>
                 <th>Отдел</th>
@@ -95,7 +102,6 @@ class Rkphones extends \yii\db\ActiveRecord
                     ->where(['department' => $company])
                     ->orderBy($sort->attributes)
                     ->all();
-                /*$mysqli->query("SELECT * FROM `rkphones` WHERE `department` = '$company_name' ORDER BY `subdepartment`")*/;
                 // В цикле перебираем все записи таблицы и выводим их
                 foreach ($staff as $item) {
                     ?>
