@@ -3,12 +3,14 @@
 /* @var $this \yii\web\View */
 /* @var $content string */
 
+use app\models\Rkphones;
 use app\widgets\Alert;
 use yii\helpers\Html;
 use yii\bootstrap\Nav;
 use yii\bootstrap\NavBar;
 use yii\widgets\Breadcrumbs;
 use app\assets\AppAsset;
+use app\controllers\SiteController;
 
 AppAsset::register($this);
 ?>
@@ -26,23 +28,28 @@ AppAsset::register($this);
 <body>
 <?php $this->beginBody() ?>
 
-<div class="wrap">
+<div class="wrap my-container">
     <?php
     NavBar::begin([
-        'brandLabel' => Yii::$app->name,
-        'brandUrl' => Yii::$app->homeUrl,
         'options' => [
             'class' => 'navbar-inverse navbar-fixed-top',
         ],
     ]);
     echo Nav::widget([
-        'options' => ['class' => 'navbar-nav navbar-right'],
+        'options' => ['class' => 'navbar-nav navbar-left'],
         'items' => [
-            ['label' => 'Home', 'url' => ['/site/index']],
-            ['label' => 'About', 'url' => ['/site/about']],
-            ['label' => 'Contact', 'url' => ['/site/contact']],
+            ['label' => 'Телефонный справочник', 'url' => ['/site/index']],
+            ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
+            ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
+            ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
+            ['label' => 'Общие вопросы', 'url' => ['/site/about']],
+            ['label' => 'Юридические лица', 'url' => ['/site/about']],
+            ['label' => 'Физические лица', 'url' => ['/site/about']],
+            ['label' => 'Приложения', 'url' => ['/site/about']],
+            ['label' => 'Акции', 'url' => ['/site/about']],
+            ['label' => 'Зона присутствия', 'url' => ['/site/about']],
             Yii::$app->user->isGuest ? (
-                ['label' => 'Login', 'url' => ['/site/login']]
+                ['label' => 'Админка', 'url' => ['/site/login']]
             ) : (
                 '<li>'
                 . Html::beginForm(['/site/logout'], 'post')
@@ -59,6 +66,12 @@ AppAsset::register($this);
 
     ?>
 
+    <div class="row">
+        <div class="col-sm-2 col-md-2 my-sidebar">
+            <ul class="nav nav-sidebar">
+                <li><?= SiteController::renderSidebar() ?></li>
+            </ul>
+        </div>
     <div class="container my-container">
         <?= Breadcrumbs::widget([
             'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
