@@ -2,7 +2,6 @@
 
 namespace app\models;
 
-use mysqli;
 use Yii;
 use yii\db\ActiveRecord;
 use yii\db\Query;
@@ -75,7 +74,13 @@ class Rkphones extends \yii\db\ActiveRecord
         $company_name = ArrayHelper::getColumn(self::rkphonesQueryArray(),'department');
         return $company_name;
     }
-
+    public static function renderSidebar()
+    {
+        foreach (self::rkphonesCompanyName() as $item)
+        {
+            echo "<li><a href='#sql_".$item."'> ".$item."</a></li>";
+        }
+    }
     public static function renderTable()
     {
         $sort = new Sort([

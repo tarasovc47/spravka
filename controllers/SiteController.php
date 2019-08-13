@@ -2,6 +2,7 @@
 
 namespace app\controllers;
 
+use app\models\Rkphones;
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
@@ -124,5 +125,37 @@ class SiteController extends Controller
     public function actionAbout()
     {
         return $this->render('about');
+    }
+
+    public function actionTaraskul()
+    {
+        return $this->render('taraskul');
+    }
+
+    public static function returnNameSidebar()
+    {
+        $getView = Yii::$app->request->pathInfo;
+        switch ($getView)
+        {
+            case 'site/index':
+                {
+                    return "Меню телефонного справочника";
+                }
+            case 'site/taraskul':
+                {
+                    return "Меню справочника Тараскуля";
+                }
+        }
+    }
+    public static function renderSidebar()
+    {
+        $sidebarName = self::returnNameSidebar();
+        if ($sidebarName == "Меню телефонного справочника"){
+            Rkphones::renderSidebar();
+        }
+        elseif ($sidebarName == "Меню справочника Тараскуля"){
+            include "../views/sidebars/taraskul.php";
+        }
+
     }
 }
