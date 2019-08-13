@@ -1,0 +1,930 @@
+<a name="AO_Inet"></a>
+<a name="AO_Inet_reservation"></a>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Бронирование услуги</h3> 
+            <p><strong>Бронирование услуги</strong> – это способ резервирования услуги Интернет при ее временной невостребованности (например, отъезд):</p>
+            <blockquote>начисляется только абонентская плата за аренду порта на оборудовании, и не начисляется абонентская плата за пользование услугой Интернет.</blockquote>
+            <p>Услуга бронирование выполняется путем смены абонентом текущего тарифного плана на <a href="http://192.168.78.33/?page=tariffs_inet_fl#TP_reserv">ТП «Резерв»</a>. Эту процедуру абонент может выполнить самостоятельно в  <a href="http://192.168.78.33/?page=gen#dyniptarifch">личном кабинете</a> либо придя в Абонентский Отдел.</p>
+            <ol><span style="text-decoration:underline; ">В случае выполнения процедуры через АО необходимо:</span>
+                <li>Явиться в Абонентский Отдел</li>
+                <li>Явиться в Абонентский Отдел</li>
+                    <li>
+                        <ul>При себе иметь:
+                            <li>паспорт, для лица, на чье имя заключен договор, </li>
+                            <li>паспорт и <a href="#AO_Inet_exec_auth"><a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+                            <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li>
+                        </ul>
+                    <li>Заполнить заявление на смену тарифного плана (приостановление услуги выполняется путем перехода абонента на <a href="http://192.168.78.33/?page=tarifs#TP_reserv">тарифный план «Резерв» </a>. </li>
+                    <br>
+                <ul>Условия предоставления услуги бронирования:
+                    <li>услуга бронирования активируется с 1-го числа следующего месяца,
+                    <li>допускается корректировка даты активации услуги бронирования (например, с середины месяца), но при этом длительность бронирования должна быть не менее 1 календарного месяца,
+                    <li>максимальный срок бронирования – 6 мес.
+                </ul>
+                <li>Подписать дополнительное соглашение о смене тарифного плана.</li>
+            </ol>
+  			
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Refunds"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Возврат денежных средств</h3>
+
+<blockquote>Вопросами возврата денежных средств занимается  <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+    <li>Явиться в Абонентский Отдел
+    <li>
+        <ul>При себе иметь:
+            <Li>паспорт, для лица, на чье имя заключен договор, 
+            <li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.
+            <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.
+        </ul>
+    </li>  
+    <li>Заполнить заявление на возврат денежных средств.
+    <li>Ожидать звонок от менеджера Абонентского Отдела о возможности возврата денежных средств.
+</ol>
+
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Refunds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Refunds.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Refunds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Refunds.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Refunds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Refunds.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+
+
+         
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <b><a href="#ModSecr" role="button" data-toggle="modal" >приемную</a></b>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (акт сверки).</p>
+           
+  			
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_pass_reset"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Восстановление пароля</h3>
+            <blockquote><p class="alert alert-danger"><b>Уточнение/проверка/подсказка/восстановление пароля для доступа в Интернет невозможны.</b></p></blockquote>
+<p>Если абонент не знает/помнит пароль, необходимо его сменить.</p>
+
+<ol><span style="text-decoration:underline; ">Для этого:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+    <li>паспорт, для лица, на чье имя заключен договор, </li>
+    <lI>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+    <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li>Получить временный пароль, который абоненту необходимо будет сменить при первом же выходе в сеть Интернет. </li>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Recovery_Services"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Восстановление услуги</h3>
+
+<blockquote>Вопросами восстановления услуги занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>. </blockquote>
+<p>Оператор 1-го уровня может только подтвердить такую возможность, если адрес абонента входит в <a href="http://192.168.78.33/?page=gen#AreaPresence">зону присутствия оператора связи РК</a>. Если же адреса абонента нет в зоне присутствия, потребуется <a href="#AO_Inet_tech_expertise">техническая экспертиза</a>.</p>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел
+<li><uL>При себе иметь:
+    <li>паспорт, для лица, на чье имя заключен договор, 
+    <li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.
+    <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.
+    </ul>
+<li>Заполнить заявление на восстановление услуги.
+<li>Дождаться результатов техэкспертизы (если она была инициирована менеджером Абонентского Отдела).
+<li>При положительной техэкспертизе выбрать тарифный план и подписать договор об оказании услуги.
+<br><br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Recovery_Services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Recovery_Services.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Recovery_Services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Recovery_Services.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Recovery_Services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Recovery_Services.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+    
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <b><a href="#ModSecr" role="button" data-toggle="modal" >приемную</a></b>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (договор или дополнительное соглашение).</p>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Check_technique"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Выезд техника платный</h3>
+            <blockquote>Запрос выезда техника на безоплатной основе решается только оператором техподдержки 2-го уровня и инженерным составом, привлеченным к решению технических сложностей.</blockquote>
+            <p>Оператор 1-го уровня имеет возможность оформить заявку на <b>ПЛАТНЫЙ ВЫЕЗД</b> техника. 
+               <h4><font color="#0061ff"><i>Шаг 1. Ознакомление абонента с прейскуратном цен выездных услуг </i></font></h4>
+            
+                <p>Перед оформлением заявки на платный выезд оператор должен ознакомить абонента с <b><a href="#Price" data-toggle="modal">прейскурантом цен</a></b> выездных услуг.</p>  
+<hr>
+               <h4><font color="#0061ff"><i>Шаг 2. Оформление заявки </i></font></h4> 
+             <div>
+                <ul><span style="text-decoration:underline; ">Для оформления заявки абонент должен сообщить</span>:
+    <li>номер лицевого счета,</li>
+    <li>контактные данные (Ф.И.О., контактные телефоны),</li>
+    <li>причины необходимости выезда техника.</li>
+                </ul>
+    <p>
+Оператор оформляет заявку в виде <a href="http://192.168.78.33/?page=support#support_truble_ticket"> трабл-тикета </a>, обязательно начиная заполнение поля «Описание проблемы» с фразы «ПЛАТНЫЙ ВЫЕЗД».
+</p>
+            </div>
+            <hr>
+               <h4><font color="#0061ff"><i>Шаг 3. Отправка заявки в АО</i></font></h4> 
+            <ol>Для этого необходимо:
+                <li>Зайти в раздел биллинга <b>«Техподдержка»</b></li>
+                <li>Находим нужную заявку на платный выезд</li>
+                <li>Нажимаем на столбец <b>«Вид услуги»</b>: </li>
+            
+            <table align="center">
+                <tr>
+                    <td>
+                        <a class="fancybox-effects-a"  href="img/ao/pdt1.png" title="Рисунок 8. Поле «Адрес»">
+                            <img class="thumbnail" src="img/ao/pdt1.png" alt="" width="640"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+                <li>В нижнем левом углу открывшейся формы нажимаем кнопку <b>«Печать»</b>:</li>
+                <table align="center">
+                <tr>
+                    <td>
+                        <a class="fancybox-effects-a"  href="img/ao/pdt2.png" title="Рисунок 8. Поле «Адрес»">
+                            <img class="thumbnail" src="img/ao/pdt2.png" alt="" width="640"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+                <li>Открывшийся файл заказ-наряда сохранить на компьютер. В имени файла указать номер заявки.</li>
+                <li>Создать в корпоративной почте Zimbra и отправить письмо следующего содержания:
+                    <ul>
+                        <li>получатель – Федорова Валентина</li>
+                        <li>копия – Заостровский Максим</li>
+                        <li>тема – «Заказ-наряд на платную заявку №_______»</li>
+                        <li>вложить ранее сохранный файл с заказ-нарядом</li>
+                    </ul>
+                </li>
+                <table align="center">
+                <tr>
+                    <td>
+                        <a class="fancybox-effects-a"  href="img/ao/pdt3.png" title="Рисунок 8. Поле «Адрес»">
+                            <img class="thumbnail" src="img/ao/pdt3.png" alt="" width="640"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            </ol>
+            <hr>
+               <h4><font color="#0061ff"><i>Шаг 4. Закрытие трабл-тикета</i></font></h4> 
+                <p>Вернуться в трабл-тикет по данной заявке и <a href="?page=support#support_close_ticket">закрыть его</a>, предварительно в поле «Описание неисправности» создать отметку следующего содержания <b>«ЗАКАЗ_НАРЯД ОТПРАВЛЕН В АО дата/месяц»</b>:
+               <table align="center">
+                <tr>
+                    <td>
+                        <a class="fancybox-effects-a"  href="img/ao/pdt4.png" title="Рисунок 8. Поле «Адрес»">
+                            <img class="thumbnail" src="img/ao/pdt4.png" alt="" width="640"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+<p>В итоге в общем списке тикетов в столбце «Тип неисправности» появится следующая отметка:</p>
+<table align="center">
+                <tr>
+                    <td>
+                        <a class="fancybox-effects-a"  href="img/ao/pdt5.png" title="Рисунок 8. Поле «Адрес»">
+                            <img class="thumbnail" src="img/ao/pdt5.png" alt="" width="640"/>
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            
+		</div>
+	  </td>
+	</tr>
+</table>
+<a name="Price_list_of_paid_services"></a>
+<hr>
+
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<h3>Прейскурант цен на платные услуги</h3>
+
+<?
+include 'content/price.php'; 
+?>
+
+<p class="label label-danger pull-right">Примечание: Оплата за оказанные услуги списывается с лицевого счета абонента по факту выполненных работ.</p> 
+
+<hr>
+<a name="AO_Inet_detailing_service"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+<h3>Детализация услуги</h3>
+<p>Детализация услуги Интернет – это расшифровка выполненных сессий подключения к сети Интернет (время подключения, длительность). </p>
+<p>Детализация доступна в личном <a href="http://192.168.78.33/?page=gen#lcab2">кабинете абонента</a>. </p>
+<p>Вопросами расширенной детализации услуги доступа к сети Интернет (с указанием перечня посещенных IP-адресов) занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>. Для получения данной услуги абоненту необходимо иметь при себе паспорт.</p>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Change_personal_data"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+<h3>Изменение личных данных абонента</h3>
+
+<ul>Если в ходе диалога выясняется, что у абонента <span style="text-decoration:underline; ">изменились личные данные</span>, содержащиеся в договоре на оказание услуги:
+    <li>Ф.И.О., </li>
+    <li>паспортные данные, </li>
+    <li>адрес регистрации (но не предоставления услуги), </li>
+    <li>контактная информация (контактный телефон, адрес эл. почты), </li>
+</ul>
+
+            
+            
+            
+            <br>&nbsp;
+<b>Предлагаем</b> абоненту заполнить соответствующее
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">заявление</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Change_personal_data.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Change_personal_data.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Change_personal_data.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Change_personal_data.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Change_personal_data.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Change_personal_data.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+<br><br>
+            
+
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в<a href="#ModSecr"  data-toggle="modal" > приемную</a>. </p>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_exec_auth"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<p>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+			<h3>Оформление доверенности в Абонентском Отделе</h3>
+				<p>В случае, если абонент, заключивший договор на 
+				оказание услуг, хочет делегировать свои полномочия 
+				по абонентским вопросам (смена тарифных планов, приостановление 
+				оказания услуг, переоформлений, расторжение договоров и т.п.) другому
+				физическому лицу, он может сделать это 
+				в Абонентском Отделе РК (что позволит избежать расходов на
+				оформление нотариальной доверенности).</p>
+				<ol><span style="text-decoration:underline; ">Для этого необходимо</span>:
+					<li>
+						<ul>Одновременно явиться с паспортом в Абонентский отдел:
+							<li>физическому лицу, на чье имя заключен договор</li>
+							<li>физическому лицу, на которое будет оформляться доверенность.</li>
+						</ul>
+					</li>
+					<li>Пройти процедуру оформления доверенности в Абонентском Отделе с указанием делегируемых действий.</li>
+				</ol>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Transferring_funds"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<p>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+			<h3>Перенос денежных средств</h3>
+
+<blockquote>Перенос денежных средств (с л/сч на л/сч) возможен только в рамках одной компании.<br>
+Если компании оказания услуг разные, то оформляется возврат денежных средств.<br>
+Вопросами переноса денежных средств занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>
+    При себе иметь:
+        <li>паспорт, для лица, на чье имя заключен договор, </li>
+        <li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+        <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+</li>
+<li>Подтвердить оплату (предоставить чек).</li>
+<li>Заполнить заявление на перенос денежных средств.</li>
+<li>Ожидать поступление денежных средств на лицевой счет абонента.</li>
+            </ol>
+
+<br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds.docx">в формате DOC</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.pdf">в формате PDF(без указания причины)</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.docx">в формате DOC(без указания причины)</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Transferring_funds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Transferring_funds.docx">в формате DOC</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.pdf">в формате PDF(без указания причины)</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.docx">в формате DOC(без указания причины)</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Transferring_funds.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Transferring_funds.docx">в формате DOC</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.pdf">в формате PDF(без указания причины)</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transferring_funds_unreason.docx">в формате DOC(без указания причины)</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>       
+            
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <a data-toggle="modal" href="#ModSecr">приемную</a>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (акт сверки).</p>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Transfer_services"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Перенос услуги на другой адрес</h3>
+
+<blockquote>Вопросами переноса услуги на другой адрес занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+<p>Оператор 1-го уровня может только подтвердить такую возможность, если адрес абонента входит в <a href="http://192.168.78.33/?page=gen#AreaPresence">зону присутствия оператора связи РК</a>. Если же адреса абонента нет в зоне присутствия, потребуется <a href="#AO_Inet_tech_expertise">техническая экспертиза</a>.</p>
+
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+    <li>паспорт, для лица, на чье имя заключен договор, </li>
+    <li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+    <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li>
+    </ul>
+<li>Заполнить заявление на перенос услуги (указав улицу, дом, подъезд, этаж, номер квартиры по новому адресу).</li>
+<li>Дождаться результатов техэкспертизы (если она была инициирована менеджером Абонентского Отдела).</li>
+<li>При положительной техэкспертизе выбрать тарифный план и подписать дополнительное соглашение о переносе услуги.</li>
+    </ol>
+
+<br><br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transfer_services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Transfer_services.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Transfer_services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Transfer_services.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Transfer_services.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Transfer_services.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+            
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в  <a data-toggle="modal" href="#ModSecr">приемную</a>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (дополнительное соглашение).</p>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_Resigning_service"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Переоформление услуги на другое ФЛ</h3>
+
+<blockquote>Вопросами переоформления услуги на другое ФЛ занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li><ul>Явиться в Абонентский Отдел следующим лицам:
+    <li>лицу, на которое оформлен договор (или его представителю по доверенности)</li>
+    <li>лицу, на которое переоформляется договор</li>
+</ul></li>
+<li><ul>При себе иметь:
+<li>паспорт, для лица, на чье имя заключен договор, 
+<li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+<li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор и заявление от нынешнего получателя услуги о его согласии на процедуру переоформления</li></ul>
+<li>Заполнить заявление на переоформление услуги на другое ФЛ</li>
+<li>Подписать соответствующее дополнительное соглашение.</li>
+    </ol>
+
+<br><br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Resigning_service.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_Resigning_service.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Resigning_service.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_Resigning_service.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Resigning_service.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_Resigning_service.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <a data-toggle="modal" href="#ModSecr">приемную</a>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (дополнительное соглашение).</p>
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_recalculation"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Перерасчет</h3>
+
+<blockquote>Вопросами перерасчета занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+    <li>паспорт, для лица, на чье имя заключен договор, </li>
+    <li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+    <li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li>Заполнить заявление на перерасчет с указанием причины.</li>
+<li>Ожидать сообщения менеджера Абонентского отдела о возможности проведения перерасчета и поступления денежных средств на лицевой счет абонента.</li>
+
+<br><br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_recalculation.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_recalculation.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_recalculation.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_recalculation.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_recalculation.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_recalculation.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <a data-toggle="modal" href="#ModSecr">приемную</a>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (акт сверки).</p>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_static_ip"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Предоставление фиксированного IP-адреса</h3>
+
+<blockquote>Вопросами оформления услуги предоставления фиксированного IP-адреса занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+<li>паспорт, для лица, на чье имя заключен договор, </li>
+<li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+<li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li><ul>Заполнить заявление на предоставление фиксированного IP-адреса, при этом возникнут <a href="http://192.168.78.33/?page=tarifs#Hebrid_TP">следующие платежи (Гибридный тарифный план)</a>:
+<li><b>450 руб.</b> единоразово за организацию услуги предоставления фиксированного IP-адреса,</li>
+<li><b>150 руб.</b> ежемесячно в качестве абонентской платы за предоставленный фиксированный IP-адрес</li>
+    </ul></li>
+<li>Подписать дополнительное соглашение о предоставлении фиксированного IP-адреса.</li>
+</ol>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_terminate_contract"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Расторжение договора</h3>
+
+<blockquote>Вопросами расторжения договоров занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+<li>паспорт, для лица, на чье имя заключен договор, </li>
+<li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+<li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li>Заполнить заявление на расторжение договора.</li>
+<li> Ознакомиться с актом сверки платежей, произвести итоговые расчеты.</li>
+<li>Подписать дополнительное соглашение о расторжении основного договора.</li>
+</ol>
+<br><br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_terminate_contract.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_terminate_contract.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_terminate_contract.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_terminate_contract.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_terminate_contract.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_terminate_contract.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><b>ТОЛЬКО В СЛУЧАЕ ПЕРЕЕЗДА АБОНЕНТА В ДРУГОЙ НАСЕЛЕННЫЙ ПУНКТ</b>. В любых других случаях бланк заявление не отправляем, а переключаем абонента в <a data-toggle="modal" href="#ModAO">Абонентский Отдел</a>.</p>
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <a data-toggle="modal" href="#ModSecr">приемную</a>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (дополнительное соглашение).</p>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_router"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Роутер</h3>
+<h4>Приобретение роутера </h4>
+<blockquote>
+    <p>Наименование роутера – <b>Zyxel «Keenetic Lite II».</b></p>
+    <p>Стоимость роутера – <b>2000 руб.</b></p>
+</blockquote>
+
+<ul>Для приобретения роутера абонент обращается в:
+<li><a href="#ModAO"  data-toggle="modal">Абонентский отдел</a>(<b>если является абонентом РК</b>)</li>
+или
+<li><a href="#ModOP"  data-toggle="modal">Отдел продаж</a>(<b>обращение первично</b>)</li>
+</ul>
+
+<p>Оплата роутера должна производиться абонентом только после оформления соответствующих документов в Абонентском Отделе или Отделе Продаж.</p>
+
+<p>Гарантийный срок обслуживания роутера – 12 месяцев с даты приобретения.</p>
+
+<h4>Настройка роутера</h4>
+    <blockquote>
+        <p>Стоимость настройки роутера – 700 руб. </p>
+        <p>Для настройки роутера необходимо оформить <a href="#Price_list_of_paid_services">ПЛАТНЫЙ ВЫЕЗД техника</a>.</p>
+    </blockquote>
+
+<p class="alert alert-danger">ВНИМАНИЕ! НЕ ОФОРМЛЯЕМ платный выезд техника для настройки роутера, <b>если абонент планирует приобретение роутера в РК </b>(это сделает менеджер Абонентского Отдела или Отдела Продаж).</p>
+
+<h4>Неработоспособность роутера</h4>
+
+<p><ul>В случае неработоспособности роутера уточняем у абонента дату и место его приобретения. </p>
+<li>Если роутер <b>приобретен вне РК</b>, отправляем абонента в место приобретения роутера. </li>
+<li>Если роутер приобретался в РК и <b>не истек период его гарантийного обслуживания</b> (12 месяцев с даты приобретения) сообщаем абоненту следующее: гарантийное обслуживания данного оборудования осуществляется исключительно специализированным сервисным центром компании-изготовителя оборудования по адресу: г. Тюмень, ул. Урицкого, д. 22/1, тел. (3452)79-70-10.
+<br>В случае, если абонент не согласен обращаться в сервисный центр, переводим звонок в <a data-toggle="modal" href="#ModAO">Абонентский Отдел</a>.</li>
+<li>Если же <b>гарантийный срок истек</b>, предлагаем обратиться абоненту в любой сервисный центр либо приобрести новый роутер.</li>
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_changing_tp"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Смена тарифного плана</h3>
+
+Смену тарифного плана абонент может выполнить самостоятельно в личном кабинете (ссылка на смену тарифа в личном кабинете). Важно ориентировать абонента на самостоятельную смену тарифа.
+
+<ol><span style="text-decoration:underline; ">В случае выполнения процедуры смены тарифного плана через АО необходимо:</span>
+<li>Явиться в Абонентский Отдел</li>
+<li><ul>При себе иметь:
+<li>паспорт, для лица, на чье имя заключен договор, 
+<li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+<li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li>Заполнить заявление на смену тарифного плана. </li>
+<li>Подписать дополнительное соглашение о смене тарифного плана.</li>
+</ol>
+<br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_changing_tp.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_changing_tp.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_changing_tp.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_changing_tp.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_changing_tp.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_changing_tp.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <b><a href="#ModSecr" role="button" data-toggle="modal" >приемную</a></b>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (дополнительное соглашение).</p>
+
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_changing_tech"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <h3>Смена технологии подключения</h3>
+
+<blockquote>Вопросами смены технологии подключения занимается <a href="#ModAO"  data-toggle="modal" >Абонентский отдел</a>.</blockquote>
+
+<ol><span style="text-decoration:underline; ">Необходимые действия:</span>
+<li>Явиться в Абонентский Отдел
+<li><ul>При себе иметь:
+<li>паспорт, для лица, на чье имя заключен договор, </li>
+<li>паспорт и <a href="#AO_Inet_exec_auth">доверенность, оформленная в Абонентском Отделе</a>, для представителя лица, на чье имя заключен договор.</li>
+<li>паспорт и нотариальная доверенность – для представителя лица, на чье имя заключен договор.</li></ul>
+<li>Заполнить заявление на смену технологии подключения.</li>
+<li>Дождаться результатов техэкспертизы.</li>
+<li>При положительной техэкспертизе выбрать тарифный план и подписать дополнительное соглашение о смене технологии подключения.</li>
+</ol>
+<br>&nbsp;
+Оператор должен предложить абоненту возможность отправки 
+<div class="dropdown btn-group">
+    
+  <a data-toggle="dropdown">бланка заявления</a>
+  <ul class="dropdown-menu" role="menu">
+    <li class="dropdown-header">Вибирете компанию</li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ООО "ТелекомТюмень"</a>
+        <ul class="dropdown-menu" role="menu">             
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_changing_tech.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/OOO_TelecomTyumen/AO_Inet_changing_tech.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "Русская Компания"</a>
+        <ul class="dropdown-menu" role="menu">            
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_changing_tech.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_RK/AO_Inet_changing_tech.docx">в формате DOC</a></li>
+        </ul>
+    </li>    
+    <li class="dropdown-submenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">ЗАО "XXI Век"</a>
+        <ul class="dropdown-menu" role="menu">
+            
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_changing_tech.pdf">в формате PDF</a></li>
+            <li><a href="content/Blanks/internet/ZAO_XXI_Vek/AO_Inet_changing_tech.docx">в формате DOC</a></li>
+        </ul>
+    </li>
+
+  </ul>
+</div>
+любым удобным абоненту способом (по эл. почте, факсом).   
+<br><br>
+<p>Абонент может направить заполненное заявление факсом, почтой или эл. почтой в <b><a href="#ModSecr" role="button" data-toggle="modal" >приемную</a></b>. После получения заявления от абонента менеджер Абонентского отдела свяжется с абонентом и согласует дату его прихода в Абонентский Отдел для подписания соответствующих документов (дополнительное соглашение).</p>
+
+
+		</div>
+	  </td>
+	</tr>
+</table>
+<hr>
+<a name="AO_Inet_tech_expertise"></a>
+<a href="#top" class="btn btn-default">Вверх</a>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+            <? include "content/AO/Techexpertise.php" ?>
+ 		</div>
+	  </td>
+	</tr>
+</table>

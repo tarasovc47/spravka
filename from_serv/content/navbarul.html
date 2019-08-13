@@ -1,0 +1,60 @@
+<li class="dropdown-submenu 
+    <? if (substr_count($page, 'inet_ul')==1){ ?> btn-success <? } ?> ">
+        <a tabindex="-1" href="#">Интернет</a>
+        <ul class="dropdown-menu pull-left" role="menu">            
+            <li class="<? if ($page=='tariffs_inet_ul'){?> btn-success <? } ?>">
+                <a href="?page=tariffs_inet_ul">Тарифы</a>
+            </li>
+            <li class="<? if ($page=='tehdifinet_ul'){?> btn-success <? } ?>">
+                <a href="?page=tehdifinet_ul">Техсложности</a>
+            </li>
+            <li class="disabled <? if ($page=='aoinet_ul'){?> btn-success <? } ?>">
+               <a><!--a href="?page=aoinet_ul"-->Абонентское обслуживание</a>
+            </li>
+        </ul>           
+</li>
+<li class="dropdown-submenu 
+    <? if (substr_count($page, 'tel_ul') == 1) {?> btn-success <? } ?>">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Телефония 
+            
+        </a>
+        <ul class="dropdown-menu" role="menu">
+            <li class="<? if ($page=='tariffs_tel_ul'){?> btn-success <? } ?>">
+                <a href="?page=tariffs_tel_ul">Тарифы</a>
+            </li>
+            <li class="<? if ($page=='tehdiftel_ul'){?> btn-success <? } ?>">
+                <a href="?page=tehdiftel_ul">Техсложности</a>
+            </li>
+            <li class="disabled <? if ($page=='aoinaotel_ulet_ul'){?> btn-success <? } ?>">
+                <a><!-- a href="?page=aotel_ul"-->Абонентское обслуживание</a>
+            </li>
+        </ul>           
+</li>
+<li class="<? if ($page=='tariffs_channels_ul'){?> btn-success <? } ?>">
+    <a href="?page=tariffs_channels_ul">Тарифы Каналы связи</a>
+</li>
+
+<li class="<? if ($page=='tariff_collocation_ul') {?> btn-success <? } ?>">
+    <a href="?page=tariff_collocation_ul">Тарифы Collocation</a>
+</li>
+
+<li class="dropdown-submenu 
+    <? if (substr_count($page, 'tv_ul') == 1) {?> btn-success <? } ?>">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Телефидение</a>
+        <ul class="dropdown-menu" role="menu">
+            <li  class="<? if ($page=='tariffs_tv_ul') {?> btn-success <? } ?>">
+                <a href="?page=tariffs_tv_ul">Тарифы</a>
+            </li>                       
+            <li  class="<? if ($page=='tehdiftv_ul') {?> btn-success <? } ?>">
+                <a href="?page=tehdiftv_ul">Техсложности</a>
+            </li>
+            <li  class="disabled <? if ($page=='aotv_ul') {?> btn-success <? } ?>">
+                <a><!--a href="?page=aotv_ul"-->Абонентское обслуживание</a>
+            </li>
+        </ul>           
+</li>
+
+<li class="<? if ($page=='tariff_DDoS_ul') {?> btn-success <? } ?>">
+    <a href="?page=tariff_DDoS_ul">Тарифы DDoS</a>
+</li>
+

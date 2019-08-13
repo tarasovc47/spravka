@@ -1,0 +1,66 @@
+<?php
+
+?>
+<a name="AOWiFI"></a><button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<!--  WiFi Begin--><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<h3 id="ios">Абонентское обслуживание WiFi ФЛ</h3> 
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">	
+	  			
+			<? include "content/AOWiFi.php" ?>
+		</div>
+	  </td>
+	</tr>
+</table>
+<!-- WiFi End --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<hr>
+<a name="AOInet"></a><button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<!-- Inet Begin --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<h3>Абонентское обслуживание Интернет ФЛ</h3>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">				
+			<? include "content/AOInet.php" ?>
+		</div>
+	  </td>
+	</tr>
+</table>
+<!--Inet End--><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<hr>
+<a name="AOTV"></a><button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<!-- Inet Begin --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<h3>Абонентское обслуживание ТВ ФЛ</h3>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">				
+			<? include "content/AOTV.php" ?>
+		</div>
+	  </td>
+	</tr>
+</table>
+<!--Inet End--><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<hr>
+<a name="AOTEL"></a><button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<!-- Inet Begin --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+<h3>Абонентское обслуживание Телефония ФЛ</h3>
+<table align="center" class="tablesize">
+	<tr>
+	  <td>
+	  	<div class="well wellwhite">				
+			<? include "content/AOTEL.php" ?>
+		</div>
+	  </td>
+	</tr>
+</table>
+
+<!--Inet End--><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- --><!-- -->
+</div>
+
+

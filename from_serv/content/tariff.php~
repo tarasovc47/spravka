@@ -1,0 +1,6546 @@
+<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<H3><A NAME="Technology"></A>Технологии</H3>
+<table align="center" class="tablesize">
+	<TR>
+		<td>
+			<div class="well wellwhite">
+				<H4><A NAME="ADSLTec"></A><b><font color="dark blue">ADSL</font></b></H4>
+					<P>Это модемная технология, преобразует
+					стандартные абонентские телефонные
+					аналоговые линии в линии высокоскоростного
+					доступа. Канал – не симметричный,
+					исходящая скорость от абонента – 1
+					Мбит/с, входящая скорость к абоненту –
+					до 15 Мбит/с.</P>
+					<br>
+
+				    <P><B>Основное преимущество данной технологии: </B>нет необходимости                        прокладывать кабель до
+					абонента. Используются уже проложенные телефонные кабели, на которые
+					устанавливаются сплиттеры для разделения сигнала на «телефонный» и                         «модемный».
+					</P>
+					<br>
+					<P><B>Недостатки:</B> -ограничение	пропускной способности до 15                            Мбит/с по технологи ADSL, до 24 Мбит/с по технологии ADSL2+.</P>
+					<br>
+					<P>ADSL предполагает установку ADSL коммутатора со стороны узла, на                           котором происходит
+					коммутация телефона и ADSL сигнала.</P>
+					<P>Также, ADSL можно установить и без телефона, в
+					данном случае к клиенту заводится телефонный кабель, который на                            прямую
+					включается в модем, сплиттер при этом не используется. Телефонный                          сигнал в
+					линию не подается.</P>
+					<P>Подключение компьютеров к сети Интернет осуществляется
+					по протоколу PPPoE (PPP over Ethernet Protocol) через
+					сетевую карту, установленную в компьютер. Если такой карты нет, то                         есть возможность
+					подключить модем к компьютеру при помощи USB порта.</P>
+					
+					<p class="label label-default pull-right">PPPoE - PPP over Ethernet                        Protocol</p>
+			</div>	
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<TR>
+		<td>
+			<div class="well wellwhite">
+                <H4><A NAME="EthernetTec"></A><font color="dark blue">Ethernet</font></H4>
+                    <P>По волоконно-оптическому кабелю сигнал
+                        поступает в каждый дом, где устанавливается
+                        медиа-конвертор, который преобразует
+                        световой (оптический) сигнал в электрический
+                        сигнал и подключается в коммутатор.
+                        Канал – симметричный в обе стороны,
+                        исходящая скорость равна входящей.
+                    </P>
+                    <P>Электрический сигнал от коммутатора поступает в
+                        квартиру абонента по локальной сети
+                        (кабель - «Витая пара»). Подключение
+                        компьютеров к сети Интернету осуществляется
+                        по протоколу PPPoE (PPP over Ethernet Protocol) через
+                        сетевую карту, установленную в компьютер.
+                        Скорость подключения к локальной сети
+                        осуществляется на скорости 10 или 100
+                        Мбит/с, как правило чаще всего подключение
+                        осуществляется на скорости 100 Мбит/с.
+                    </P>
+                    <P>Не надо путать скорость подключения
+                        компьютера к нашей сети, со скоростью
+                            выхода в сеть Интернет -  она может
+                        зависеть от тарифного плана и от
+                        загруженности внешних магистральных
+                        каналов.
+                    </P>
+			</div>	
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<TR >
+		<td>
+			<div class="well wellwhite">
+                <H4><A NAME="PONTec"></A><font color="dark blue">PON-технология</font></H4>
+                <P>Предоставление доступа к услугам связи по технологии
+                    PON - это технология построения широкополосных
+                    сетей мультисервисного доступа, которая
+                    позволяет предоставить по одному
+                    оптическому волокну услуги передачи
+                    данных (Интернет), телефонии, кабельного
+                    телевидения с гарантированным качеством
+                    обслуживания.
+                </P>
+
+                <P>Технология PON предусматривает прокладку оптоволоконного
+                    кабеля непосредственно в дом абонента,
+                    тем самым гарантируя высокое качество
+                    предоставляемых услуг.
+                </P>
+
+                <P>Для организации доступа абоненту
+                    устанавливается активное оборудование-
+                    ONU, благодаря которому подключение всех
+                    услуг происходит удаленно и в одном
+                    устройстве. Оборудование бывает разных
+                    типов, имеет встроенный Wi-Fi роутер, что
+                    позволяет избежать установки дополнительных
+                    устройств и обеспечить беспроводной
+                    доступ.
+                </P>
+			</div>	
+		</td>
+	</tr>
+</table>
+<hr>
+<A NAME="Tarifs_for_sale"></A><A NAME="Active"></A>
+<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H3>Тарифные планы для продажи</H3>
+<table align="center" class="tablesize">
+	<TR >
+		<td>
+			<div class="well wellwhite">
+                <H4>АКТИВ , безлимитные тарифные планы</H4>
+                 
+                <ul>Ограничения для тарифных планов «Актив 6», «Актив8»:
+                    <li>ул. Широтная, 120, к. 2</li>
+                    <li>(на этих адресах тарифный план <a href="#Unlimited_line_2048_RRL">«Безлимитная линейка 2048(РРЛ)»</a>                         </li>
+                </ul>
+               <A NAME="Active6"></a>
+                <br>
+                <H4>«Актив 6»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">     <TR class="warning">
+    <Th>
+	   <P ALIGN=CENTER>Название тарифного плана</P>
+   </Th>
+   <TD colspan="2">
+	 <P ALIGN=CENTER><B>АКТИВ 6</B></P>
+   </TD>
+  </TR>
+  <TR  class="warning">
+      <Th ROWSPAN=2>
+	   <P ALIGN=CENTER>Абонентская	плата</P>
+      </Th>
+      <TD ROWSPAN=2>
+		<P>Тариф:</P>
+		<P ALIGN=CENTER><B>290</B>	руб./мес.</P>
+      </TD>
+	  <TD>
+		  <P>Абонентская плата за аренду порта на оборудовании:</P>
+          <P ALIGN=CENTER><b>70</b> руб./мес.</P>
+	  </TD>
+	</TR>
+	<TR  class="warning">
+		<TD>
+			<P>Абонентская	плата за пользование услугой:</P>
+			<P ALIGN=CENTER><b>220</b> руб./мес.</P>
+		</TD>
+	</TR>
+	<TR  class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная	способность канала</P>
+		</Th>
+		<TD>
+			<P ALIGN=center>с 8-00 до 24-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 3 072 кбит/с</P>
+		</TD>
+	</TR>
+	<TR  class="warning">
+		<TD>
+			<P ALIGN=center>с 24-00 до 8-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 6 144 кбит/с</P>
+		</TD>
+	</TR>
+	<TR  class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение	по скорости</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR  class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet,	ADSL</P>
+		</TD>
+	</TR>
+	<TR  class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия	активации</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для активации тарифного плана абоненту	необходимо внести авансом до 1-го числа	каждого месяца сумму, равную размеру абонентской платы по выбранному тарифу. При отсутствии на 1-е число каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается. При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании
+            </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+
+<A NAME="Active8"></A>
+<br>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Актив 8»</H4>
+                
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<TR  class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>АКТИВ 8</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская	плата</P>
+		</Th>
+		<TD ROWSPAN=2 >
+			<P>Тариф:</P>
+            <P ALIGN=CENTER><B>350</B> руб./мес.</P>
+		</TD>
+		<TD>
+			<P>Абонентская плата за аренду порта на оборудовании:</P>
+			<P ALIGN=CENTER><b>70 </b> руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская плата за пользование услугой:</P>
+			<P ALIGN=CENTER><b>280</b>	руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная	способность канала</P>
+		</Th>
+		<Td>
+			<P ALIGN=JUSTIFY>с 8-00 до 24-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 4 096 кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00 до 8-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 8 192 кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение по скорости</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet, ADSL</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+            <P ALIGN=CENTER>Условия активации</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия	перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<A NAME="Active50"></A>
+<br>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Актив 50»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>АКТИВ 50</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская	плата</P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>600</B> руб./мес.</P>
+		</TD>
+		<TD>
+			<P>Абонентская	плата за аренду порта на оборудовании:</P>
+			<P ALIGN=CENTER><b>70</b> руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская плата за пользование услугой:</P>
+			<P ALIGN=CENTER><b>530</b> руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 51&nbsp;200* кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Td>
+			<P ALIGN=JUSTIFY>с 24-00 до 8-00</P>
+		</Td>
+		<TD>
+			<P ALIGN=CENTER>до 51&nbsp;200* кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение	по скорости</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet, ADSL</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия активации</P>
+		</th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для активации тарифного плана абоненту	необходимо внести авансом до 1-го числа	каждого месяца сумму, равную размеру абонентской платы по выбранному тарифу. При отсутствии на 1-е число каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается. При этом по лицевому счету будет
+			начисляться плата за аренду порта на оборудовании</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия	перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход на тарифный план возможен из личного кабинета со следующего числа после подачи заявки при условии наличия 	авансового платежа, равного абонентской	плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+            <P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<P class="label label-danger pull-right">
+Примечание: <i>При подключении по технологии ADSL пропускная способность не превышает 15 Мбит/с.</i></P>
+
+<A NAME="Active100"></A>
+<br>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Актив 100»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>АКТИВ 100</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская	плата</P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>900</B> руб./мес.</P>
+		</TD>
+		<TD>
+			<P>Абонентская	плата за аренду порта на оборудовании:</P>
+			<P ALIGN=CENTER><B>70</b>	руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой:</P>
+			<P ALIGN=CENTER><B>830</b>	руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная способность канала</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до 24-00</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 102 400* кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00 до 8-00</P>
+		</TD>
+		<TD>
+            <P ALIGN=CENTER>до 102 400* кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение	по скорости</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</th>
+		<TD COLSPAN=2 >
+			<P ALIGN=CENTER>Ethernet, ADSL</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия	активации</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+            <P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<P class="label label-danger pull-right">
+    Примечание: <i>При подключении по технологии ADSL пропускная способность не превышает 15 Мбит/с.</i>
+    
+			</div>	
+		</td>
+	</tr>
+</table>                                                                                  
+<hr>
+ <A NAME="Olimp"></A>
+<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<TR >
+		<td>
+			<div class="well wellwhite">
+<H4>ОЛИМП, пакетное подключение</H4>
+                
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифные
+планы, в рамках которого предоставляются
+услуги доступа к сетям Интернет и
+кабельного телевидения:</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt"><I><B>«Олимп
+15»</B></I><FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+- пропускная способность канала – до
+15Мбит/с, плюс 48 аналоговых каналов и до
+150 каналов в цифровом формате. Стоимость
+первых 3-х месяцев – 450руб./мес., в
+дальнейшем – 600 руб./мес.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt"><I><B>«Олимп
+50»</B></I><FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+- пропускная способность канала – до
+50Мбит/с, плюс 48 аналоговых каналов и до
+150 каналов в цифровом формате. Стоимость
+первых 3-х месяцев – 550руб./мес., в
+дальнейшем – 700 руб./мес.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt"><I><B>«Олимп
+100»</B></I><FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+- пропускная способность канала – до
+100Мбит/с, плюс 48 аналоговых каналов и до
+150 каналов в цифровом формате. Стоимость
+первых 3-х месяцев – 650руб./мес., в
+дальнейшем – 1000 руб./мес.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt">В
+стоимость тарифных планов «Олимп»
+включена ежемесячная абонентская плата
+за аренду порта на оборудовании Провайдера
+для предоставления доступа к сети
+Интернет (70 руб.) и за предоставление
+линии для получения доступа к сети
+кабельного телевидения (40 руб.). Абонентская
+плата начисляется ежемесячно, в течение
+всего срока действия договора, вне
+зависимости от фактического пользования
+услугой.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифные
+планы «Олимп» предоставляются при
+наличии технической возможности.
+Пакетное предложение <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>не
+доступно</B><FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+для следующих категорий абонентов:</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Абонентам,
+	предоставление доступа которым
+	организовано с применением технологии
+	ADSL;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Абонентам,
+	предоставление доступа которым
+	организовано с помощью радио оборудования
+	Цунами, Dreamwifi/Nanostation 2, infinet</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Абонентам
+	пригородных территорий, подключение
+	которых организовано по технологии
+	PON: пос. Патрушево, ДНС Лесная поляна,
+	ДНС Дорожник, пос. Молодежный, ДНС
+	Петровский остров, п. Посохово, Московский,
+	Дербыши, Дударева и т.д. <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #00ffff">дополнить
+	адреса </SPAN>
+	</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Для
+	действующих абонентов (без 3-х льготных
+	месяцев).</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Услуги
+по тарифным планам <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><I><B>«Олимп»</B></I><FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+предоставляются абонентам на условиях
+внесения 100% предоплаты, в срок до 1 числа
+месяца пользования услугой.</P>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Начисление
+абонентской платы производится ежедневно,
+равными долями, пропорционально стоимости
+выбранного тарифного плана. При отсутствии
+необходимой суммы на балансе лицевого
+счета, предоставления доступа к сети
+приостанавливается. При этом производится
+начисление абонентской платы. 
+</P>
+
+
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<H4><A NAME="_Toc381187781"></A><A NAME="_Toc382868866"></A>
+РЕЗЕРВ</H4>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #c0c0c0">Обращаем
+внимание абонента на то, что тарифный
+план «Резерв» предназначен исключительно
+для экономии начисляемых средств на
+время временной невостребованности
+услуги Интернет (например, отъезд): при
+отсутствии подключений к сети Интернет
+на данном тарифном плане начисляется
+только абонентская плата за аренду
+порта на оборудовании.</SPAN></P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #c0c0c0">В
+случае пользования данным тарифом для
+доступа в Интернет обращаем внимание
+абонента на дороговизну такого пользования
+и необходимость перехода на иные тарифные
+планы.</SPAN></P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #c0c0c0">Абонентская
+плата 2,3 руб. в день, стоимость за 1 Мб
+входящего трафика 0,50 рублей.</SPAN></P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<H4><A NAME="_Toc382868867"></A><A NAME="_Toc381187782"></A>
+СОЦИАЛЬНЫЙ 
+</H4>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Пропускная
+способность канала до 128 кБит/с, абонентская
+плата 140 рублец в месяц. Объем предоплаченного
+трафика – неограничен.</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<H4><A NAME="_Toc382868868"></A>ТАРИФНЫЕ
+ПЛАНЫ ДЛЯ СТУДЕНТОВ ОБЩЕЖИТИЙ МЕДАКАДЕМИИ</H4>
+
+<P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифные
+планы «Теория», «Практика» и линейка
+«Студент» предназначена для студентов
+общежитий Медакадемии по адресам:
+Одесская, 48 и Котовского, 56</P>
+
+<H5><A NAME="_Toc382868869"></A>«Практика»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ПРАКТИКА</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Абонентская
+			плата</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>300</B>
+			руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала</P>
+		</Th>
+		<TD>
+			<P>0-25 Гбайт</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 2
+			Мбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>свыше 25 Гбайт</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>256 кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости 
+			</p>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>25 Гбайт
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<H5><A NAME="_Toc382868870"></A>«Теория»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ТЕОРИЯ</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Абонентская
+			плата</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>150</B>
+			руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала</P>
+		</Th>
+		<TD>
+			<P>0-15 Гбайт</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 1
+			Мбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>свыше 15 Гбайт</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>128 кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости 
+			</p>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>15 Гбайт
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<H5><A NAME="_Toc382868871"></A>«Студент 5»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>СТУДЕНТ
+			5</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Абонентская
+			плата</P>
+		</Th>
+		<TD>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>350</B>
+			руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 5
+			Мбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости 
+			</p>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+<A NAME="TP_student_10"></A>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Студент 10»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>			
+            <P ALIGN=CENTER>Название тарифного плана</P>		
+        </Th>
+		<TD>
+			<P ALIGN=CENTER><B>СТУДЕНТ 10</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская	плата</P>
+		</TD>
+		<TD>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>450</B>руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Пропускная способность канала</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 10 Мбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение	по скорости </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ethernet</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Условия	активации</P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Условия	перехода на тарифный план</P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ списания денежных средств</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+
+<A NAME="TP_student_50"></A>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Студент 50»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название тарифного плана</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>СТУДЕНТ	50</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Абонентская	плата</P>
+		</Th>
+		<TD>
+			<P>Тариф:</P>
+            <P ALIGN=CENTER><B>600</B> руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная способность канала</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>до 50 Мбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение	по скорости</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология подключения</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>Ethernet</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия активации</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Для активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия	перехода на тарифный план</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Способ	списания денежных средств</P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно равными частями</P>
+		</TD>
+	</TR>
+</TABLE>
+    
+
+<A NAME="TP_for_townhouse"></A>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>ТАРИФНЫЕ ПЛАНЫ ДЛЯ КОТТЕДЖНЫХ ПОСЕЛКОВ</H4>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Абоненты
+коттеджных поселков подключаются к
+услуге доступа к сети Интернет по
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN LANG="en-US">PON</SPAN><FONT><FONT SIZE=2 STYLE="font-size: 11pt">-технологии.
+
+</P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Всем
+клиентам в момент подключения доступен
+мультисервисный пакет- оптимальный
+набор услуг для дома, состоящий из:</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">высокоскоростного
+	интернет;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">местной
+	телефонной связи;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">кабельного
+	телевидения в аналоговом и цифровом
+	формате;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">соединительной
+	линии для обеспечения работоспособности
+	оборудования охранно-пожарной
+	сигнализации</P>
+</UL>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Стандартная
+стоимость подключения обусловлена
+выбором оборудования и удаленности
+населенного пункта и составляет:</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<TABLE WIDTH=698 CELLPADDING=1 CELLSPACING=1>
+	<TR>
+		<TD WIDTH=170 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>Район
+			предоставления услуг</B></FONT></P>
+		</TD>
+		<TD WIDTH=119 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>Предоставляемые
+			услуги</B></FONT></P>
+		</TD>
+		<TD WIDTH=173 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>Стоимость
+			подключения</B></FONT></P>
+		</TD>
+		<TD WIDTH=221 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER><FONT SIZE=1 STYLE="font-size: 8pt"><B>Тарифные
+			планы</B></FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">д.Ушаково,
+			мкр.Молодежный</FONT></P>
+		</TD>
+		<TD WIDTH=119 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет</FONT></P>
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">телефон</FONT></P>
+		</TD>
+		<TD WIDTH=173 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:</FONT></P>
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">для
+			1 услуги - 6 000 рублей<BR>для 2 услуг - 8 000
+			рублей</FONT></P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			услуг - 0 рублей&nbsp;</FONT></P>
+		</TD>
+		<TD WIDTH=221 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://t72.ru/personal/tariff_village/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">Линейка
+			&quot;Городок&quot;</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">-
+			д. Патрушево, д.Ожогина<BR>- Суходолье
+			(слева от ул. Народная)<BR>р-он Городище<BR>-
+			ул.Барнаульская оз. Цимлянское</FONT></P>
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">-
+			район п.Тарманы (ул.Лебяжья, ул.Просторная,
+			ул.Андреевская, ул.Архитекторов,
+			ул.Монолитная, ул.Академика
+			Сахарова,<BR>ул.Журавлиная, ул.Егорьевская,
+			ул.Тверская, ул.Малый Арбат,<BR>ул.Динаровская,
+			ул.Соловьиная, ул.Утренняя, ул.Литовская)</FONT></P>
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">-&nbsp;ул.Роз
+			(р-он Войновка)</FONT></P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">-ул.Зимняя,
+			ул. Угорская, ул.Буровиков</FONT></P>
+		</TD>
+		<TD WIDTH=119 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет</FONT></P>
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">телефон</FONT></P>
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">кабельное
+			телевидение</FONT></P>
+		</TD>
+		<TD WIDTH=173 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:</FONT></P>
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">для
+			1 услуги - 8 000 рублей<BR>для 2 услуг - 10
+			000 рублей<BR>для 3 услуг - 12 000 рублей</FONT></P>
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			услуг - 0 рублей&nbsp;</FONT></P>
+		</TD>
+		<TD WIDTH=221 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://www.t72.ru/personal/internet/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Кабельного тв - <A HREF="http://www.tyumen-tv.ru/price/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">Тариф
+			Загородный</SPAN></A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Суходолье
+			(справа от ул. Народная)</FONT></P>
+		</TD>
+		<TD WIDTH=119 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет<BR>телефон</FONT></P>
+		</TD>
+		<TD WIDTH=173 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:<BR>для 1 услуги - 13
+			000 рублей<BR>для 2 услуг - 15 000 рублей</FONT></P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			услуг - 0 рублей</FONT></P>
+		</TD>
+		<TD WIDTH=221 BGCOLOR="#dadada" STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://www.t72.ru/personal/internet/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">-
+			СНТ Дорожник<BR>- СНТ Лесная Поляна<BR>-
+			п.Посохово<BR>- д.Дербыши<BR>- п.Московский<BR>-
+			д.Дударева</FONT></P>
+		</TD>
+		<TD WIDTH=119 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет<BR>телефон</FONT></P>
+		</TD>
+		<TD WIDTH=173 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:<BR>для 1 услуги - 14
+			000 рублей<BR>для 2 услуг - 16 000 рублей</FONT></P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			услуг - 0 рублей</FONT></P>
+		</TD>
+		<TD WIDTH=221 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://t72.ru/personal/tariff_suburban/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">Линейка
+			&quot;Пригородный&quot;</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Петровский
+			остров</FONT></P>
+		</TD>
+		<TD WIDTH=119 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет<BR>телефон<BR>кабельное
+			телевидение</FONT></P>
+		</TD>
+		<TD WIDTH=173 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:<BR>- 25 000 рублей </FONT>
+			</P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			каждой услуги - 500 рублей</FONT></P>
+		</TD>
+		<TD WIDTH=221 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://t72.ru/personal/tariff_suburban/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">Линейка
+			&quot;Пригородный&quot;</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Кабельного тв - <A HREF="http://www.tyumen-tv.ru/price/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">
+			
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=170 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Район
+			улиц Н.Чаплина-Молодежная <BR>(ул.Рабочая,
+			ул. Шмидта, ул. Папанинцев, ул.Сибирская,
+			ул.Южная,<BR>ул.Молодженая, ул. Инженерная,
+			ул. Правды, ул.Суворова, ул.Физкультурная,
+			ул.Депутатская, ул.Лопарева,
+			ул.Союзная,ул.Н.Чаплина)</FONT></P>
+		</TD>
+		<TD WIDTH=119 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">интернет<BR>телефон<BR>кабельное
+			телевидение</FONT></P>
+		</TD>
+		<TD WIDTH=173 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P STYLE="margin-top: 0.05cm; margin-bottom: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Строительство
+			абонентской линии:<BR>для 1 услуги - 8
+			000 рублей<BR>для 2 услуг - 10 000 рублей<BR>для
+			3 услуг - 12 000 рублей</FONT></P>
+			<P STYLE="margin-top: 0.05cm"><FONT SIZE=1 STYLE="font-size: 8pt">Подключение
+			услуг - 0 рублей</FONT></P>
+		</TD>
+		<TD WIDTH=221 STYLE="border: 1px double #00000a; padding: 0.03cm">
+			<P ALIGN=CENTER STYLE="margin-top: 0.05cm"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt">Тарифы
+			на услугу Интернет - <A HREF="http://www.t72.ru/personal/internet/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Телефония - <A HREF="http://t72.ru/personal/phones/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">городские</SPAN></A><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><BR>Тарифы
+			на услугу Кабельного тв - <A HREF="http://www.tyumen-tv.ru/price/"><FONT COLOR="#44546a"><FONT SIZE=1 STYLE="font-size: 8pt"><SPAN STYLE="text-decoration: none">Тариф
+			Загородный</SPAN></A></P>
+		</TD>
+	</TR>
+</TABLE>
+<P ALIGN=JUSTIFY STYLE="margin-left: 3.5cm; margin-bottom: 0cm"><BR>
+</P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Стандартное
+подключение включает в себя:</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">ВОЗДУШНЫЙ
+	ВВОД в дом волоконно-оптического кабеля;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">протяженность
+	абонентской линии по территории абонента
+	составляет не более 30 метров;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">при
+	подключении производится бурение не
+	более 1 отверстия в капитальной стене,
+	диаметром до 16 мм и глубиной до 40 см.</P>
+</UL>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Внутренняя
+сеть для подключения к услугам связи
+(интернет, телефония, кабельное
+телевидение) должна быть заранее
+подготовлена Абонентом и сведена в
+помещение, где будет установлено активное
+оборудование (ONU).</P>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Активное
+оборудование ONU, устанавливается на
+стене, в отапливаемом помещении (t 14-35
+С). Требуется наличие электрической
+розетки постоянного напряжения 220 В.</P>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">При
+проведении работ по подключению к
+услугам связи НЕ ОСУЩЕСТВЛЯЕМ:</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">строительство
+	локальной сети;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">укладку
+	кабеля связи под плинтус, пол, кафель
+	и т.д. (ни в помещение дома, ни за его
+	пределами);</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">прокладку
+	электрических сетей;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">штробление
+	стен, полов и/или потолков;</P>
+	<LI><P ALIGN=JUSTIFY><FONT><FONT SIZE=2 STYLE="font-size: 11pt">декоративную
+	отделку мест установки оборудования
+	и линий связи.</P>
+</UL>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">При
+возникновении дополнительных технических
+вопросов (подземный ввод кабеля, прокладка
+кабеля через несколько построек на
+территории Клиента) требуется проведение
+технической экспертизы, с целью
+определения сложности и стоимости
+дополнительных работ.</P>
+
+<H5><A NAME="_Toc382868875"></A>ГОРОДОК, пос.
+Молодежный</H5>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифные
+планы для пос. Молодежный</P>
+<H6 CLASS="заг6-western"><A NAME="_Toc382868876"></A>«Городок
+6»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ГОРОДОК
+			6</B></P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата</P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>290</B>
+			руб./мес.</P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании:</P>
+			<P ALIGN=CENTER>70
+			руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой:</P>
+			<P ALIGN=CENTER>220
+			руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала</P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00</P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 3 072
+			кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00</P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 6 144
+			кбит/с</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN>оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868877"></A>«Городок
+8»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ГОРОДОК
+			8</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>350</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>280
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 4 096
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 8&nbsp;192
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868878"></A>«Городок
+20»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ГОРОДОК
+			20</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>600</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>530
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 10 240
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 20 480
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868879"></A>«Городок
+40»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ГОРОДОК
+			40</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>900</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>830
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 20 480
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 40 960
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868880"></A>ПРИГОРОДНЫЙ</H5>
+<H6 CLASS="заг6-western"><A NAME="_Toc382868881"></A>«Пригородный
+5»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL WIDTH=147>
+	<COL WIDTH=251>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ПРИГОРОДНЫЙ
+			5</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2 WIDTH=147
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>450</B> 
+			руб./мес. </P>
+		</TD>
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>380
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 5
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON</SPAN> -оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании в размере 70 руб. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868882"></A>«Пригородный
+10»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ПРИГОРОДНЫЙ
+			10</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>650</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>580
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 10
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON</SPAN> -оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании в размере 70 руб. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу  
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868883"></A>«Пригородный
+50»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL WIDTH=147>
+	<COL WIDTH=251>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ПРИГОРОДНЫЙ
+			50</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2 WIDTH=147
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>800</B> 
+			руб./мес. </P>
+		</TD>
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>730
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 50
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON</SPAN> -оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H6 CLASS="заг6-western"><A NAME="_Toc382868884"></A>«Пригородный
+100»</H6>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL WIDTH=147>
+	<COL WIDTH=251>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ПРИГОРОДНЫЙ
+			100</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2 WIDTH=147
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>1050</B> 
+			руб./мес. </P>
+		</TD>
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD WIDTH=251
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>980
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 100
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON</SPAN> -оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+
+<H4><A NAME="_Toc382868885"></A>ГИБРИДНЫЙ
+ТАРИФНЫЙ ПЛАН</H4>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">При
+оказании услуг доступа к сети Интернет
+абонентам предоставляется услуга с
+динамическим  <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN LANG="en-US">IP</SPAN> <FONT><FONT SIZE=2 STYLE="font-size: 11pt">-адресом
+(не фиксированным, сменным).  
+</P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Если
+абонент желает пользоваться услугой с
+фиксированным (постоянным)  <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN LANG="en-US">IP</SPAN> <FONT><FONT SIZE=2 STYLE="font-size: 11pt">-адресом,
+необходимо подключить гибридный тарифный
+план. Он предоставляется дополнительно
+к основному тарифному плану и состоит
+из <A HREF="#Подключение_статического_IP">подключения
+услуги</A> и <A HREF="#Абонентская_плата_статический_IP">ежемесячной
+абонентской платы</A>. </P>
+<H5><A NAME="_Toc382868886"></A><A NAME="_Toc381187783"></A><A NAME="Подключение_статического_IP"></A>
+Предоставление PPPoE авторизации с
+выделением статического IP-адреса 
+</H5>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Единовременно
+450 руб. </P>
+
+<H5><A NAME="Абонентская_плата_статический_IP"></A><A NAME="_Toc382868887"></A>
+Предоставление фиксированный IP адрес
+</H5>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Ежемесячная
+абонентская плата за предоставление
+фиксированный IP адрес (1 адрес) 150&nbsp;руб. </P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Для
+активации тарифного плана абоненту
+необходимо внести авансом до 1-го числа
+каждого месяца сумму, равную размеру
+абонентской платы по выбранной услуге.
+При отсутствии на 1-е число каждого
+месяца необходимой суммы оказание
+услуги приостанавливается. </P>
+
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-bottom: 0cm; page-break-before: always">
+<BR>
+</P>
+<H3><A NAME="Supported_Tariffs"></A>Тарифные
+планы поддерживаемые</H3>
+
+
+<H5><A NAME="_Toc382868889"></A>«Актив 20»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>АКТИВ
+			20</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>600</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>530
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 10 240
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 20 480
+			кбит/с* </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">При
+подключении по технологии ADSL пропускная
+способность не превышает 15 Мбит/с. </P>
+<H5><A NAME="_Toc382868890"></A>«Актив 40»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>АКТИВ
+			40</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>750</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>690
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 20 480
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 40 960
+			кбит/с* </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">При
+подключении по технологии ADSL пропускная
+способность не превышает 15 Мбит/с. </P>
+<H5><A NAME="Unlimited_line_2048_RRL"></A>«Безлимитная
+линейка 2048 (РРЛ)»</H5>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #c0c0c0">Тарифный
+план для абонентов по адресу: </SPAN> <FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B><SPAN STYLE="background: #c0c0c0">ул.&nbsp;Широтная,
+120, к.2.</SPAN></B> </P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #c0c0c0">Особенность
+тарифа в том, что абоненты, находящиеся
+на данном тарифном плане не могут сменить
+тарифный план в сторону увеличения
+пропускной способности канала доступа
+к сети Интернет (нет такой технической
+возможности).</SPAN> </P>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Название
+			тарифного плана</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER><B><SPAN STYLE="background: #c0c0c0">БЕЗЛИМИТНАЯ
+			ЛИНЕЙКА 2048 (РРЛ)</SPAN></B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Абонентская
+			плата</SPAN> </P>
+		</TD>
+		<TD>
+			<P><SPAN STYLE="background: #c0c0c0">Тариф:</SPAN> </P>
+			<P ALIGN=CENTER><B><SPAN STYLE="background: #c0c0c0">300</SPAN></B> <SPAN STYLE="background: #c0c0c0">
+			руб./мес.</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Пропускная
+			способность канала</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">до
+			2 Мбит/с</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации)</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">нет</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Технология
+			подключения</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US"><SPAN STYLE="background: #c0c0c0">Ethernet</SPAN></SPAN> <SPAN STYLE="background: #c0c0c0">,
+			ADSL</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Условия
+			активации</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY><SPAN STYLE="background: #c0c0c0">Наличие
+			денег на лицевом счете абонента</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Условия
+			перехода на тарифный план</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY><SPAN STYLE="background: #c0c0c0">Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу</SPAN> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Способ
+			списания денежных средств</SPAN> </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER><SPAN STYLE="background: #c0c0c0">Ежедневно
+			равными частями</SPAN> </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868892"></A>«Безлимитная
+линейка 2»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>БЕЗЛИМИТНАЯ
+			ЛИНЕЙКА 2</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф:</P>
+			<P ALIGN=CENTER><B>300</B>	руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>230
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868893"></A> «Безлимитная
+линейка 4»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>БЕЗЛИМИТНАЯ
+			ЛИНЕЙКА 4</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>500</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>430
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 4
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+
+
+<H5><A NAME="_Toc382868894"></A>«Безлимитная
+линейка 6»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>БЕЗЛИМИТНАЯ
+			ЛИНЕЙКА 6</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>650</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>580
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 6
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868895"></A> «Безлимитная
+линейка 10»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>БЕЗЛИМИТНАЯ
+			ЛИНЕЙКА 10</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>900</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>830
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>от 0-200
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 10
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>свыше
+			200 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 3
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>200 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868896"></A>«Домашний»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ДОМАШНИЙ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>450</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>380
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> HEIGHT=18
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>до 4
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет  
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868897"></A>«Комета»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>КОМЕТА</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>300</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>230
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>от 0-30
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 1
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>свыше
+			30 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 256
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>30 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868898"></A>«Комфорт»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>КОМФОРТ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P>Тариф: <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER><B>650</B> 
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>580
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>от 0-90
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 5
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>свыше
+			90 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>90 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">Ограничение
+пропускной способности до 512 кбит/с до
+конца календарного месяца по факту
+превышения лимита 90 Гбайт входящего
+трафика.  
+</P>
+
+<H5><A NAME="_Toc382868899"></A>«Комфортно»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>КОМФОРТНО</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>720</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>650
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 10 240
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до
+			20&nbsp;480* кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>200** Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">При
+подключении по технологии ADSL пропускная
+способность не превышает 15 Мбит/с. </P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">** <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">Ограничение
+пропускной способности до 3072 кбит/с до
+конца календарного месяца по факту
+превышения лимита 200 Гбайт входящего
+трафика.  
+</P>
+
+
+<H5><A NAME="_Toc382868900"></A>«Легко»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>ЛЕГКО</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>380</B> 
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>310
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>с 8-00 до
+			24-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до 4 096
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>с 24-00
+			до 8-00 </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER>до
+			20&nbsp;480* кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">При
+подключении по технологии ADSL пропускная
+способность не превышает 15 Мбит/с. </P>
+
+
+<H5><A NAME="_Toc382868901"></A>«Любитель»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>ЛЮБИТЕЛЬ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>300</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">ограничение
+пропускной способности до 3072 кбит/с до
+конца календарного месяца по факту
+превышения лимита в 200 Гбайт входящего
+трафика. </P>
+
+
+
+<H5><A NAME="_Toc382868902"></A>«Максимальный»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>МАКСИМАЛЬНЫЙ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>30</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER>Стоимость
+			входящего трафика </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Внешний* </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>1,3 руб./Мб </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Локальный** </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>0,5 руб./Мб </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B><SPAN STYLE="background: #c0c0c0">*
+Примечание:</SPAN></B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN STYLE="background: #c0c0c0">
+Внешний трафик – трафик локальных и
+глобальных сетей, за исключением
+локальной сети РК.</SPAN> </P>
+<P><FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B><SPAN STYLE="background: #c0c0c0">**Примечание:
+</SPAN></B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><SPAN STYLE="background: #c0c0c0">Внутренний
+трафик – локальная сеть РК.</SPAN> </P>
+
+<H5><A NAME="_Toc382868903"></A>«Максимум»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>МАКСИМУМ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>900</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>до 1
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868904"></A>«Метеор»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><B>МЕТЕОР</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>500</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY>от 0-50
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY>свыше
+			50 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 256
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>50 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868905"></A>«Мечта»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>МЕЧТА</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>1 500</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>до 4
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+
+<H5><A NAME="_Toc382868906"></A>«Минимум»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><B>МИНИМУМ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>350</B> 
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER>до 256
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER><SPAN LANG="en-US">Ethernet</SPAN> ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868907"></A> «Молодежный
+1»</H5>
+<P ALIGN=JUSTIFY STYLE="margin-left: 1.25cm; margin-bottom: 0cm"><FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифный
+план только для абонентов в пос.&nbsp;Молодежном. </P>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<COL WIDTH=57>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><B>МОЛОДЕЖНЫЙ
+			1</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>300</B> 
+			руб./мес. </P>
+		</TD>
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>230
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>от 0-30
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 1
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>свыше
+			30 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>30 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">ограничение
+пропускной способности до 256 кбит/с до
+конца календарного месяца по факту
+превышения лимита в 30 Гбайт входящего
+трафика. </P>
+
+<H5><A NAME="_Toc382868908"></A>«Молодежный
+2»</H5>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифный
+план только для абонентов в пос.&nbsp;Молодежном. </P>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<COL WIDTH=57>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><B>МОЛОДЕЖНЫЙ
+			2</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>500</B> 
+			руб./мес. </P>
+		</TD>
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>430
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>от 0-50
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>свыше
+			50 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>50 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P><FONT><FONT SIZE=2 STYLE="font-size: 11pt">* <FONT><FONT SIZE=2 STYLE="font-size: 9pt"><B>
+Примечание: </B> <FONT><FONT SIZE=2 STYLE="font-size: 9pt">ограничение
+пропускной способности до 512 кбит/с до
+конца календарного месяца по факту
+превышения лимита в 50 Гбайт входящего
+трафика. </P>
+
+
+<H5><A NAME="_Toc382868909"></A>«Молодежный
+6»</H5>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифный
+план только для абонентов в пос.&nbsp;Молодежном. </P>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<COL WIDTH=57>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><B>МОЛОДЕЖНЫЙ
+			6</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>650</B> 
+			руб./мес. </P>
+		</TD>
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>580
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>от 0-90
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 6
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>свыше
+			90 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER>до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>90 Гбайт
+			 
+			</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Технология
+			подключения </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><SPAN LANG="en-US">PON-</SPAN> оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			активации </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Условия
+			перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY>Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER>Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER>Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868910"></A>«Молодежный
+10»</H5>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm">
+<FONT><FONT SIZE=2 STYLE="font-size: 11pt">Тарифный
+план только для абонентов в пос.&nbsp;Молодежном. </P>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<COL WIDTH=57>
+	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER>Название
+			тарифного плана </P>
+		</Th>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER><B>МОЛОДЕЖНЫЙ
+			10</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P>Тариф: </P>
+			<P ALIGN=CENTER><B>900</B> 
+			руб./мес. </P>
+		</TD>
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER>70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2
+			<P>Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER>830
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER>Пропускная
+			способность канала </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>от 0-160
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 10
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> свыше
+			160 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER> 160 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">PON-</SPAN>  оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY> Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=3>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868911"></A>«Ночной
+стандарт»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>НОЧНОЙ
+			СТАНДАРТ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>700</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> с 7-00 до
+			24-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> с 24-00 до
+			7-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 1024
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868912"></A>«Ночь по
+максимуму»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER><FONT><FONT SIZE=2 STYLE="font-size: 11pt">НОЧЬ
+			ПО МАКСИМУМУ </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>1200</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> с 7-00 до
+			24-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 1024
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> с 24-00 до
+			7-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 2048
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868913"></A>«Пригородный
+1024»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> <B>ПРИГОРОДНЫЙ
+			1024</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>450</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 1
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">PON-</SPAN>  оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868914"></A>«Пригородный
+2048»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> <B>ПРИГОРОДНЫЙ
+			2048</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>650</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD> BGCOLOR="#ffffff"
+			<P ALIGN=CENTER> <SPAN LANG="en-US">PON-</SPAN>  оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868915"></A>«Пригородный
+5128»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ПРИГОРОДНЫЙ
+			5128</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>800</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-100
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 5
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше
+			100 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 100 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">PON-</SPAN>  оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868916"></A>«Пригородный
+10240»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ПРИГОРОДНЫЙ
+			10240</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>1050</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-160
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 10
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше
+			160 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 2
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 160 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=CENTER> <SPAN LANG="en-US">PON-</SPAN>  оборудование </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H5><A NAME="_Toc382868917"></A>«Просто»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<COL>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ПРОСТО</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>300</B>  
+			руб./мес. </P>
+		</TD>
+		<TD
+			<P> Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER> 70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD
+			<P> Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER> 230
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2>
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-30
+			Гбайт </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER> до 3072
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше
+			30 Гбайт </P>
+		</TD>
+		<TD
+			<P ALIGN=CENTER> до 128
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 30 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+<H5><A NAME="_Toc382868918"></A>«Профи»</H5>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ПРОФИ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD ROWSPAN=2>
+			<P> Тариф:  <B>
+			</B> 
+			</P>
+			<P ALIGN=CENTER> <B>600</B>  
+			руб./мес. </P>
+		</TD>
+		<TD>
+			<P> Абонентская
+			плата за аренду порта на оборудовании: </P>
+			<P ALIGN=CENTER> 70
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P> Абонентская
+			плата за пользование услугой: </P>
+			<P ALIGN=CENTER> 530
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-200
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 6
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше
+			200 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 3
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 200 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу. При
+			отсутствии на 1-е число каждого месяца
+			необходимой суммы доступ в Интернет
+			приостанавливается. При этом по
+			лицевому счету будет начисляться
+			плата за аренду порта на оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H4><A NAME="_Toc382868919"></A>«Скоростной»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	
+	
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>СКОРОСТНОЙ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>900</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD ROWSPAN=2> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-160
+			Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 1
+			Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше
+			160 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости (лимит ежемесячно входящей
+			информации) </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 160 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD COLSPAN=2> BGCOLOR="#ffffff"
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Способ
+			списания денежных средств </P>
+		</TD>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<H4><A NAME="_Toc382868920"></A>«Стандарт»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<COL>>
+	<COL>>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Название
+			тарифного плана </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> <B>СТАНДАРТ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Абонентская
+			плата </P>
+		</TD>
+		<TD>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>500</B>  
+			руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD> 
+			<P ALIGN=CENTER> Пропускная
+			способность канала </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 512
+			кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Ограничение
+			по скорости  
+			</P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Технология
+			подключения </P>
+		</TD>
+		<TD> 
+			<P ALIGN=CENTER> <SPAN LANG="en-US">Ethernet</SPAN>  ,
+			ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			активации </P>
+		</TD>
+		<TD> 
+			<P ALIGN=JUSTIFY> Наличие
+			денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=CENTER> Условия
+			перехода на тарифный план </P>
+		</TD>
+		<TD>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Способ	списания денежных средств </P>
+		</Th>
+		<TD>
+			<P ALIGN=CENTER> Ежедневно
+			равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+<br>
+<A NAME="TP_Comfortably"></A>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Удобно»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Название тарифного плана </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>УДОБНО</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER> Абонентская плата </P>
+		</Th>
+		<TD ROWSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>510</B>  руб./мес. </P>
+		</TD>
+		<TD>
+			<P>Абонентская плата за аренду порта на оборудовании:</P>
+			<P ALIGN=CENTER>70 руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P>Абонентская плата за пользование услугой:</P>
+			<P ALIGN=CENTER>440	руб./мес.</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER> Пропускная	способность канала</P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY> с 8-00 до 24-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 8 192 кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> с 24-00 до 8-00 </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до	20480* кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Ограничение по скорости </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Технология	подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet,	ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Для
+			активации тарифного плана абоненту
+			необходимо внести авансом до 1-го числа
+			каждого месяца сумму, равную размеру
+			абонентской платы по выбранному
+			тарифу. При отсутствии на 1-е число
+			каждого месяца необходимой суммы
+			доступ в Интернет приостанавливается.
+			При этом по лицевому счету будет
+			начисляться плата за аренду порта на
+			оборудовании </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Способ	списания денежных средств </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно	равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+<P class="label label-danger pull-right">*
+Примечание: <i>При подключении по технологии ADSL пропускная
+способность не превышает 15 Мбит/с.</i></P>
+<br>
+<A NAME="TP_Tsunami2"></A>                                                                      
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+
+<H4>«Цунами 2»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Название тарифного плана </P>
+        </Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ЦУНАМИ 2</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER> Абонентская плата </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>700</B> руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Пропускная	способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY> до 2048 кбит/с </P>
+		</TD>		
+	</TR>	
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Ограничение по скорости</P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Нет </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Технология подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet, ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY>Переход на тарифный план возможен из личного кабинета со следующего числа после подачи заявки при условии наличия авансового платежа, равного абонентской плате по выбранному тарифу
+            </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Способ	списания денежных средств </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+    <br>
+<A NAME="TP_Tsunami4"></A>                                                                      
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>«Цунами 4»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Название тарифного плана </P>
+        </Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ЦУНАМИ 4</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER> Абонентская плата </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>1000</B> руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER> Пропускная	способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-102,4 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 4096 кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше 102,4 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 512 кбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Ограничение по скорости (лимит ежемесячно входящей	информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 102,4 Гбайт </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Технология подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet, ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход на тарифный план возможен из личного кабинета со следующего числа после подачи заявки при условии наличия авансового платежа, равного абонентской плате по выбранному тарифу
+            </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Способ	списания денежных средств </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+<br>
+                                                                       
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<A NAME="TP_Xpert"></A>
+<H4>«Эксперт»</H4>
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover">
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Название тарифного плана </P>
+        </Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> <B>ЭКСПЕРТ</B> </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th> 
+			<P ALIGN=CENTER> Абонентская плата </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P> Тариф: </P>
+			<P ALIGN=CENTER> <B>850</B> руб./мес. </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th ROWSPAN=2>
+			<P ALIGN=CENTER> Пропускная	способность канала </P>
+		</Th>
+		<TD>
+			<P ALIGN=JUSTIFY> от 0-200 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 10 Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<TD>
+			<P ALIGN=JUSTIFY> свыше	200 Гбайт </P>
+		</TD>
+		<TD>
+			<P ALIGN=CENTER> до 3 Мбит/с </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Ограничение по скорости (лимит ежемесячно входящей	информации) </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> 200 Гбайт</P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Технология подключения </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER>Ethernet, ADSL </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия активации </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Наличие денег на лицевом счете абонента </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Условия перехода на тарифный план </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=JUSTIFY> Переход
+			на тарифный план возможен из личного
+			кабинета со следующего числа после
+			подачи заявки при условии наличия
+			авансового платежа, равного абонентской
+			плате по выбранному тарифу </P>
+		</TD>
+	</TR>
+	<TR class="warning">
+		<Th>
+			<P ALIGN=CENTER> Способ	списания денежных средств </P>
+		</Th>
+		<TD COLSPAN=2>
+			<P ALIGN=CENTER> Ежедневно равными частями </P>
+		</TD>
+	</TR>
+</TABLE>
+
+
+

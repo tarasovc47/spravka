@@ -1,0 +1,1263 @@
+<A NAME="teh"></A>
+ <p ><button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<H3>Технические сложности</H3><a name="InsufficientBalance"></a>
+<H4>Не работает Интернет в результате недостатка баланса</H4>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					Если у абонента при подключении к сети
+					Интернет браузер открывает страницу с
+					сообщением об отключении за неуплату,
+					то первым делом необходимо проверить
+					наличие необходимой суммы на балансе
+					и не отключен ли он по отсутствию
+					предоплаты.</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<P align="center">
+`<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m4cf1ee8b.jpg" NAME="Рисунок 5" WIDTH=642 HEIGHT=231/>
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P >
+				Как видно из данного примера, у абонента
+				отрицательный баланс, и он отключен по
+				отсутствию предоплаты. В данном случае
+				абоненту необходимо погасить задолженность
+				и оплатить сумму, равную стоимости
+				тарифного плана.</P>
+
+				<P>
+				Если же у абонента положительный баланс, но
+				он все так же отключен по причине
+				отсутствия предоплаты, то ему необходимо
+				доплатить сумму, равную стоимости
+				тарифного плана.</P>
+
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<hr> <A NAME="DelPageHanged"></A>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4>Удаление зависшей страницы отключения за неуплату</H4>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					Если баланс абонента равный или больше
+					стоимости тарифного плана, то выполняем
+					следующее:</P>
+				<P>
+				1. В адресной строке браузера открываем
+				адрес ресурса <a href="http://tariff.t72.ru">tariff.t72.ru</a></P>
+
+				<P>
+				2. Проходим процесс аутентификации
+				оператора. Для этого в поле «Имя
+				пользователя» указываем свой логин, в
+				поле «Пароль» указываем пароль и нажимаем
+				кнопку «Принять»:</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<p align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_4582acf6.jpg" NAME="Рисунок 31" WIDTH=642 HEIGHT=244/></P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					3. Среди доступных функций выбираем «Поиск
+					активных сессий»
+				</p>
+			</div>		
+		</td>
+	</tr>
+</table>				
+<P align="center">
+	<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_411d505b.jpg" NAME="Рисунок 30" WIDTH=642 HEIGHT=245/><BR>
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					4. В правом верхнем углу в поле поиска
+					указываем искомый логин и нажимает
+					клавишу «Enter»:</P>
+			</div>		
+		</td>
+	</tr>
+</table>		
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m4bf5cd4e.jpg" NAME="Рисунок 29" WIDTH=642 HEIGHT=225/><BR>
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					5. Смотрим последнюю строку:</P>
+			</div>		
+		</td>
+	</tr>
+</table>						
+					
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_14ceaa5b.jpg" NAME="Рисунок 4" WIDTH=642 HEIGHT=192/><BR>
+</P>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<H4><A NAME="_Toc382923511"></A>«красный минус»</H4>
+					<P>
+						Если в последней строке стоит <B>«красный
+						минус»</B>, то рекомендуем абоненту выполнить в
+						приведенной последовательности следующие
+						действия (до момента устранения ошибки):</P>
+					<UL>
+						<LI><P>	обновить	страницу нажатием на клавиатуре клавиши «F5»</P>
+						<LI><P> в адресной строке вручную набрать адрес любого сайта</P>
+						<LI><P>	очистить	историю просмотров страниц браузера</P>
+						<LI><P>	запустить командную строку (для этого нажимаем сочетания
+						 клавиш Win+R) и ввести в строку	cmd→ кнопка «Ок») и в ней 
+						 ввести команду <b style="background-color: #ffff00;"><font color="#7f0911" >ipconfig /flushdns</font></b> 	и нажать клавишу Enter:</P>
+					</UL>
+			</div>		
+		</td>
+	</tr>
+</table>
+		
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m68c9a24b.jpg" NAME="Рисунок 32" WIDTH=474 HEIGHT=237 />
+</P>
+
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m6afbd67e.jpg" NAME="Рисунок 3" WIDTH=618 HEIGHT=223 />
+</P>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+			<H4>«Зеленая галочка»</H4>
+				<P> Если в последней строке стоит <B>«зеленая
+				галочка»</B>, рекомендуем абоненту переподключится
+				к сети Интернет (если же он пользуется
+				WIFI-роутером, то <A HREF="#Перезагрузка_коммут_оборудивания">перезагрузить
+				его по питанию</A>) либо вручную скинуть сессию, для этого: 
+				</P>
+				<P> - нажимаем кнопку «Килять»</P>
+				<P> - подтверждаем действие и ждем 30 секунд</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<p align="center">
+	<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_5b6d5f26.jpg" NAME="Рисунок 2" WIDTH=618 HEIGHT=184 />
+</P>
+
+<P align="center">
+	<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_5b6e5d52.jpg" NAME="Рисунок 1" WIDTH=500 HEIGHT=203/><BR>
+</P>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H4><A NAME="PassRecovery"></A>Восстановление пароля</H4>
+
+<P><SPAN STYLE="background: #ffff00">ссылка на этот вопрос в файле Абонентское обслуживание</P>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<H3><A NAME="_Toc382923514"></A>Создание нового подключения (PPPoE)</H3>
+
+<table align="center" class="tablesize">
+
+	<TR class="warning">
+		<td>
+			<P align="center" class="alert alert-danger"><strong><font color="red">Выясняем у абонента версию операционной системы Windows</font></strong></P>
+
+			<div class="well wellwhite">
+				<H4><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<a name="PPPoE_WinXP"></a>Создание нового подключения (PPPoE) в Windows XP </H4>
+
+				<P>	1. Нажимаем кнопку
+					«Пуск» → Все программы → Стандартные
+					→ Связь → Мастер новых подключений
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_5315adc0.png" NAME="Рисунок 88" WIDTH=436 HEIGHT=334 />
+				</P>
+
+				<P> 2 . Нажимаем «Далее» </P>
+				<P> 3. Выбираем «Подключится к Интернету» и нажимаем «Далее»</P>
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m6409a7c3.png" NAME="Рисунок 87" WIDTH=436 HEIGHT=334 />
+				</P>
+
+				<P>	4. Выбираем «Установить подключение вручную» и нажимаем «Далее»</P>
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_4d84c3fe.png" NAME="Рисунок 86" WIDTH=433 HEIGHT=332 />
+				</P>
+				<P>	5. Выбираем «Через
+					высокоскоростное подключение,
+					запрашивающее имя пользователя и пароль»
+					и нажимаем «Далее»
+				</P>
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m48c12ce.png" NAME="Рисунок 85" WIDTH=431 HEIGHT=331 />
+				</P>
+				<P> 6 . В появившемся
+					окне указываем имя провайдера (Русская
+					компания, РК) и нажимаем «Далее»	
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_5b5b2d54.png" NAME="Рисунок 84" WIDTH=430 HEIGHT=329 />
+				</P>
+
+				<P>
+					7. В поле «Имя пользователя» вводится выданный абоненту
+					логин, в поле «Пароль» вводится пароль.
+					Подтверждаем правильность ввода пароля
+					в поле «Подтверждение» и нажимаем
+					«Далее»	
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_2a9a91d3.png" NAME="Рисунок 83" WIDTH=427 HEIGHT=327 />
+				</P>
+
+				<P>
+					8. Проставляем галочку «Добавить ярлык подключения
+					на рабочий стол»  и нажимаем «Готово»	
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_67600e76.png" NAME="Рисунок 82" WIDTH=320 HEIGHT=245 /><img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_4d68b1f5.png" NAME="Рисунок 81" WIDTH=231 HEIGHT=245 />
+				</P>
+			</div>	
+		</td>
+	</tr>
+</table>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<H4><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<a name="PPPoE_WinVista"></a>Создание нового подключения (PPPoE) в Windows Vista</H4>
+
+				<P> 	1. Нажимаем меню
+					«Пуск» (кнопка в нижнем левом угле
+					 <img src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_d44685.jpg" NAME="Рисунок 80" WIDTH=21 HEIGHT=19 />),
+					далее выбираем «Панель Управления» 
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m5543e609.jpg" NAME="Рисунок 79" WIDTH=342 HEIGHT=168 />
+				</P>
+	
+				<P> 2. Для удобства в
+					левом углу нажимаем «Классический вид»</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m34ec7542.jpg" NAME="Рисунок 78" WIDTH=340 HEIGHT=207 >
+				</P>
+
+				<P>
+					3. Выбираем «Центр
+					управления сетями и общим доступом»
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_6b7434d8.jpg" NAME="Рисунок 77" WIDTH=338 HEIGHT=295 />
+				</P>
+		
+				<P>
+					4. Выбираем в левой
+					колонке «Установка подключения или
+					сети» 
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m380d0076.jpg" NAME="Рисунок 76" WIDTH=340 HEIGHT=327 /></P>
+				<P>	5. Выбираем «Подключение к Интернету», жмем «Далее»</P>
+
+				<P> 	6. Выбираем «Все равно создать новое подключение»</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_4ad316ce.jpg" NAME="Рисунок 75" WIDTH=336 HEIGHT=196 />
+ 				</P>
+
+				<P> 7. Выбираем «Высокоскоростное (с PPPoE)»</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m648a4c73.jpg" NAME="Рисунок 74" WIDTH=335 HEIGHT=109 />
+				</P>
+
+				<P> 	8. Заполняем графы Логин и Пароль, ставим галочку «Запомнить 
+					этот пароль», в имени подключения пишем «Русская компания» или «РК», жмём
+					«Подключить» 
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_1e6d8f5d.png" NAME="Рисунок 73" WIDTH=332 HEIGHT=234 />	
+				</P>
+
+				<P>
+					9. Жмем «Пропустить»,
+					если соединение установилось, принудительно
+					его разрываем и переходим к п.12
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m2160dcbd.jpg" NAME="Рисунок 72" WIDTH=349 HEIGHT=327 />
+				</P>
+
+				<P>10. Жмем «Все равно создать подключение»</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m30edc21c.jpg" NAME="Рисунок 71" WIDTH=351 HEIGHT=211 />
+				</P>
+
+				<P> 11. Жмем «Закрыть»</P>
+
+				<P> 	12. Возвращаемся в «Панель управления» и выбираем
+					«Управление сетевыми подключениями»	
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_16bea7bf.jpg" NAME="Рисунок 70" WIDTH=353 HEIGHT=198 />
+				</P>
+
+				<P> 13. Жмем правую кнопку на подключении «Русская компания»
+					и выбираем «Создать Ярлык». На вопрос
+					«Поместить его на рабочий стол?» жмем «ДА» 
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_34ef0f0a.png" NAME="Рисунок 69" WIDTH=352 HEIGHT=286 />
+				</P>
+				<P>
+					14. Заходим в свойства
+					«Local Area Connection» (Подключение по локальной сети)
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m18522ed9.png" NAME="Рисунок 68" WIDTH=224 HEIGHT=241 />
+				</P>
+
+				<P>
+					15. Снимаем галочку
+					напротив протокола «TCP/IP v.6» согласно
+					картинки
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_13e717fe.png" NAME="Рисунок 67" WIDTH=336 HEIGHT=271 />
+				</P>
+
+				<P>
+					16. Жмем «OK» и подключаем значок «Русская компания»
+					на Рабочем столе.
+				</P>
+			</div>	
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<H4><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<a name="PPPoE_Win7"></a>Создание нового подключения (PPPoE) в Windows 7</H4>
+
+				<P>
+					1. Нажмите кнопку «Пуск», затем «Панель управления»:
+				</P>
+
+				<p align="center">		
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_3e5a0ddb.jpg" NAME="Рисунок 66" WIDTH=430 HEIGHT=320 />
+				</P>
+	
+				<P>
+					2. Выберите «Сеть и Интернет»:
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_791ca0fc.jpg" NAME="Рисунок 65" WIDTH=430 HEIGHT=306 />
+				</P>
+
+				<P>
+					3. Выберите	«Центр управления сетями и общим	доступом»:
+				</P>
+
+				<p align="center">  
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m662f4a99.jpg" NAME="Рисунок 64" WIDTH=430 HEIGHT=302 />
+				</P>
+
+				<P>
+					4. Далее создаем
+					новое подключение → пункт «Настройка
+					нового подключения или сети»:
+				</P>
+				<p align="center">  
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_ad81144.jpg" NAME="Рисунок 63" WIDTH=431 HEIGHT=302 />
+				</P>
+
+				<P>
+					5. Пошагово выбираем «Подключение к Интернету» → Далее 
+				</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m3029e113.jpg" NAME="Рисунок 62" WIDTH=428 HEIGHT=296 />
+				</P>
+
+				<P>
+ 					«Все равно создать новое подключение» → «Высокоскоростное (с PPPoE)»:
+				</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_2202bde9.jpg" NAME="Рисунок 61" WIDTH=429 HEIGHT=300 />
+				</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_69e37822.jpg" NAME="Рисунок 60" WIDTH=435 HEIGHT=309 />
+				</P>
+				<P>
+					6. Далее вводим в соответствующие поля логин абонента,
+					пароль, имя подключения - «Русская
+					компания», устанавливаем галочки в
+					пунктах «Отображать вводимые знаки»,
+					«Запомнить этот пароль» →нажимаем «Подключить».
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_47ff93e2.png" NAME="Рисунок 59" WIDTH=431 HEIGHT=302 />
+				</P>
+	
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_25f0f1ee.png" NAME="Рисунок 58" WIDTH=430 HEIGHT=301 />
+				</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_482c6fe0.jpg" NAME="Рисунок 57" WIDTH=421 HEIGHT=299 />
+				</P>
+	
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_18dca446.jpg" NAME="Рисунок 56" WIDTH=420 HEIGHT=293 />
+				</P>
+
+
+				<P>
+					7. Добавьте ярлык созданного подключения на «Рабочий
+					стол». Выберите «Изменение параметров адаптера»:	
+				</P>
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_59f3e05.jpg" NAME="Рисунок 55" WIDTH=420 HEIGHT=295 />
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m33a5e172.png" NAME="Рисунок 54" WIDTH=290 HEIGHT=208 />
+    
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m36fe6d32.png" NAME="Рисунок 53" WIDTH=378 HEIGHT=206 /></P>
+
+
+				<P>
+					После этого ярлык подключения «Русская компания»
+					отобразится на «Рабочем столе». Активируем
+					подключение:
+				</P>
+
+				<p align="center">
+  					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m563a02df.png" NAME="Рисунок 52" WIDTH=436 HEIGHT=328 />
+				</P>
+
+			</div>	
+		</td>
+	</tr>
+</table>
+<A NAME="PONReset"></A>
+<H3>Перезагрузка роутера/модема/PON-оборудования</H3>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P> Перезагрузка любого оборудования происходит
+				отключением его от сети на 30-60 секунд и
+				последующим включением.</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<A NAME="er691"></A><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+
+<H3>691 ошибка при подключении </H3>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P class="alert alert-info"> «У вас выдается ошибка 691? Ожидайте на линии
+				результатов поиска причины данной ошибки»</P>
+
+				<P>При работе с данной ошибкой оператор использует ресурс <B>tariff.t72.ru:</B></P>
+				<P>1. В адресной строке браузера открываем адрес ресурса <A HREF="http://www.t72.ru/">tariff.t72.ru</A></P>
+
+				<P>2. Проходим процесс аутентификации оператора. Для этого в поле «Имя
+				пользователя»<b><font color="#7f0911"> указываем свой логин, 
+				в поле «Пароль» вводим пароль и нажимаем кнопку «Принять»</font></b></P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_4582acf6.jpg" NAME="Рисунок 17" WIDTH=642 HEIGHT=244/><BR>
+				</P>
+				<P> 3. Среди доступных функций выбираем «Зайти в мониторинг»</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_411d505b.jpg" NAME="Рисунок 16" WIDTH=642 HEIGHT=245/><BR>
+				</P>
+				<P> <b>1.</b> В поле «Логин» указываем имя пользователя
+						абонента, в поле «Порог» выбираем интервал «за полчаса»
+						и нажимает кнопку показать</P>
+				<P> <b>2.</b> Анализируем полученный результат:</P>
+				<p align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m34bb0bec.png" NAME="Рисунок 14" WIDTH=599 HEIGHT=47/>
+				</P>
+<h4 STYLE="text-decoration: underline;">- неверный пароль</h4>
+	<P>Абонент подключается с неверным паролем. Сообщить
+		абоненту: 
+		<p class="alert alert-success">«Спасибо за ожидание. Вероятная
+			причина ошибки – неверное введение пароля. При следующем подключении
+			вводите пароль более внимательно, предварительно проверив отключение
+			регистра заглавных букв и правильность выбора языка раскладки».</P>
+	</P>
+	<P>- Если абонент просит уточнить пароль, посмотреть
+	его можно в <b>акте выполненных работ</b>. <b><font color="#7f0911"> 
+	<p>- Если акт был утерян, то для восстановления пароля необходимо обратиться в <a href="#ModAO" data-toggle="modal">абонентский отдел.</a></font></b></span></P>
+<hr>
+<H4 STYLE="text-decoration: underline;">- неверный MAC </H4>
+	<P> Абонент подключается с другого компьютера, либо
+		другого сетевого устройства. 
+	</P>
+	<P class="alert alert-success"> «Спасибо за ожидание. Подскажите, пожалуйста, Вы выполняете подключение с нового
+			компьютера/сетевого устройства?</P>
+	<P> Если да, то:
+	<P class="alert alert-success">«В таком случае, для авторизации нового
+	подключения, необходимо пройти процедуру проверки данных абонента. Готовы?» 
+	</P>
+	<ul>Уточняем:
+		<li> фактический адрес предоставления услуги</li>
+		<li> Ф.И.О. владельца договора</li>
+	</ul>
+	<P> После необходимых уточнений добавить <A HREF="#SecondMAKbind">новый MAC-адрес</A> либо <A HREF="#MAKChannge">заменить старый</A>.</P>
+<hr>
+<H4 STYLE="text-decoration: underline;">- логин не найден</H4>
+	<P class="alert alert-success"> «Спасибо за ожидание. Давайте уточним вводимый Вами логин»</P>
+	<P> Проверить наличие логина в биллинге:</P>
+	<UL>
+		<LI><P>	При наличии логина с активной датой активации
+			и с датой закрытия, абоненту необходимо сообщиться
+			о закрытии услуг. <SPAN STYLE="background: #ffff00">Отправить
+			<b><a href="#ModAO" data-toggle="modal">в абонентский отдел</a></b>.</P>
+		<LI><P>	При отсутствии логина проверить правильность	его
+		 написания, используя другие данные	для идентификации
+		 (лицевой счет, адрес предоставления услуг).</P>
+	</UL>
+<hr>
+<H4 STYLE="text-decoration: underline;" >- превышено максимальное число одновременных соединений</H4>
+	<P class="alert alert-success"> «Причина ошибки в том, уже есть активная сессия
+	(подключение) с Вашего логина. Это так? Для продолжения работы Вам нужно выбрать
+одно из этих двух подключений». 
+	</P>
+<hr>
+<H4>- Vlan пользователя не соответствует тарифному плану (роуминг)</H4>
+	<P> Как правило, это возникает у абонентов в общежитиях МедАкадемии. </P>
+	<P> Уточняем:</P>
+		<P class="alert alert-success"> «Вы подключены кабелем к услуге доступа к
+		сети Интернет? Вероятная причина ошибки – автоматическое соединение Вашего
+		компьютера по сети  WiFi.med. Вам необходимо отключиться от нее и
+		повторить попытку подключения». 
+		</P>
+
+		<P> Если абонент просит помощи в отключении от сети WIFI.su: </P>
+
+		<P> 1. В правом нижнем углу панели задач находим
+			значок отображающий подключение к беспроводным сетям</P>
+		<P> 2. Нажимаем на него левой кнопкой мыши и смотрим к
+		какой сети в данный момент произведено подключение:</P>
+
+			</div>		
+		</td>
+	</tr>
+</table>
+<P ALIGN=CENTER>
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m5deb8a48.jpg" NAME="Рисунок 18" WIDTH=353 HEIGHT=438 /></P>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<P>
+	3. Для
+	отключения от сети нажимаем левой
+	кнопки мыши на название сети и выбираем
+	опцию «Отключение»:</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<P ALIGN=CENTER>
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m413d7405.jpg" NAME="Рисунок 19" WIDTH=353 HEIGHT=438 /></P>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<P>
+<strong>Если к сети не подключен, то создать трабл-тикет.</strong>
+Если же абонент находиться <strong>не в общежитиях
+МедАкадемии</strong>, но мониторинг подключений
+выдаёт подобную ошибку, то необходимо
+создать трабл-тикет <SPAN STYLE="background: #ffff00">(ссылка
+на инструкцию по созданию трабл-тикета
+в фале Общие вопросы)
+с формулировкой в поле «Описание
+проблемы» - «неверно прописанный VLAN»:</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<p align="center">  <img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m4e872178.jpg" NAME="Рисунок 24" WIDTH=526 HEIGHT=449 /></P>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P> 3. Если же мониторинг подключений не показывает ни одной попытки, а у абонента
+					все так же 691 ошибка, это может означать либо наличие вирусов на абонентском
+					оборудовании, либо абонент неверно набирает имя пользователя. Во втором
+					случае, уточнить у абонента какое именно имя пользователя указывает и если есть
+					расхождения сообщить ему об этом. Если же логин набирается верно, но ошибка
+					все так же продолжается, это означает что проблема явно в абонентском
+					оборудовании, в частности вирусы. Рекомендуем абоненту произвести проверку
+					операционной системы на вирусы имеющейся антивирусной программой. Выmac
+					адрес абонентского устройства и найти логин с которого абонент пытается
+					подклю</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+
+
+<A NAME="MAKChannge"></A>
+<H4>Замена MAC – адреса</H4>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					Заходим в сервисы абенента, нас интересует
+					интернет с динамическим IP.
+				</P>
+				<P>
+					Находим и нажимаем кнопку «m»
+					рядом с логином, на котором нужно убрать
+					привязку:
+				</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_21aac711.jpg" NAME="Рисунок 13" WIDTH=642 HEIGHT=90 />
+				</P>
+
+				<P> Далее открывается окно, в котором редактируем MAC-адрес</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m12dc3b8c.jpg" NAME="Рисунок 12" WIDTH=642 HEIGHT=100 />
+				</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<hr>
+<A NAME="MAKReset"></A><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+
+<H3>Сброс привязки по MAC – адресу</H3>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P class="marque"> Заходим в сервисы абонента, нас интересует интернет с динамическим IP.</P>
+				<P> Находим и нажимаем кнопку «m» рядом с логином, на котором нужно убрать привязку:</P>
+
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_21aac711.jpg" NAME="Рисунок 11" WIDTH=642 HEIGHT=90/><BR>
+				</P>
+				<P> 	Далее открывается окно редактирования привязки к MAC-адресу</P>
+				<P> 	
+					Если нам требуется разово убрать привязку, 
+					то снимает соответствующую галочку и стираем 
+					в поле текущий MAC адрес. Нажимает кнопку сохранить. 
+				</P>
+				<p align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m12dc3b8c.jpg" NAME="Рисунок 10" WIDTH=642 HEIGHT=100/></P>
+				<P align="center">
+					<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_7010f61a.jpg" NAME="Рисунок 9" WIDTH=642 HEIGHT=109/><BR>
+				</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+
+<A NAME="SecondMAKbind"></A>
+<H3>Привязка второго MAC – адреса</H3>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<P> 
+		Если нам нужно привязать второй MAC
+		— адрес, то через «;» прописываем второй
+		адрес и нажимаем кнопку сохранить. 
+</P>
+<P class="alert alert-danger">
+!!! <I>	
+		<B>Ни в коем случае не должно быть пробелов
+		как между символами, так и в начале и
+		конце. Привязать можно максимум два
+		адреса, но никак не больше. Если абонент
+		желает пользоваться услугой с нескольких
+		устройств, то ему необходимо приобрести
+		маршрутизатор.
+		</B>
+	</I>
+</P>
+<P>
+	Так
+же, нельзя оставлять пустым поле значения
+с активной «галочкой». В этом случае
+подключение у абонента не пройдет.
+</P>
+<p align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m2bea9760.jpg" NAME="Рисунок 8" WIDTH=642 HEIGHT=113/></P>
+<P>
+	Перед тем как сбросить или привязать второй
+	MAC-адрес, необходимо идентифицировать абонента.
+	По логину, номеру лицевого счета, адресу
+	предоставления услуги. В случае с
+	юридическими лицами обязательно уточнять
+	Ф.И.О. непосредственного руководителя.
+	(исполнительный директор, генеральный
+	директор и т.д.)
+</P>
+<p align="center">
+	<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m6f0c9aca.jpg" NAME="Рисунок 7" WIDTH=642 HEIGHT=120 />
+</P>
+<P align="center">
+	<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_7323da93.png" NAME="Рисунок 6" WIDTH=642 HEIGHT=77 />
+</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+
+<H3><A NAME="SpeedMesWORouter"></A>Замеры
+скорости при подключении кабеля напрямую</H3>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					При обращении по данному запросу
+					идентифицировать абонента не менее чем
+					по двум  признакам: л/с, адрес.</P>
+				<P>
+					Уведомить абонента:</P>
+				<P>
+					«Измерение скорости возможно при подключении
+					кабеля напрямую к компьютеру/ноутбуку,
+					при отключенных соединениях к Wi-Fi
+					сетям отключены и при отключении
+					torrent-клиентов,
+					download-менеджеров, firewall
+					и антивирусных программ. Ваш компьютер
+					или ноутбук подключены кабелем напрямую?
+					Все перечисленные приложения и подключения
+					по сети Wi-Fi закрыты?»</P>
+
+				<P>
+					Произвести замеры скорости на следующих ресурсах:
+					<A HREF="#sp.t72.ru">sp.t72.ru</A>
+					и <A HREF="#sp.t72.ru.test">sp.t72.ru/test</A></P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<H3><A NAME="sp.t72.ru"></A>sp.t72.ru</H3>
+
+					<P> В адресной строке браузера открываем адрес <a href="http://sp.t72.ru"><strong>sp.t72.ru</strong></a>:</P>
+					<P  align="center">
+						<img  class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m71021cbb.jpg" NAME="Рисунок 26" WIDTH=426 HEIGHT=250 />
+					</P>
+
+					<P>В открывшейся странице нажимаем кнопку <strong>«begin test»</strong>:</P>
+					<P  align="center">
+						<img  class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m71021cbb.jpg" NAME="Рисунок 27" WIDTH=426 HEIGHT=250 />
+					</P>
+					<P>Анализируем результаты теста:</P>
+					<P align="center">
+						<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_695b5e01.jpg" NAME="Рисунок 28" WIDTH=436 HEIGHT=250 /></P>
+					<P>
+						На данном ресурсе показатели входящей и
+						исходящей скорости доступа к сети
+						Интернет соединения зависят от технологии
+						подключения:</P>
+					<UL>
+						<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0cm; widows: 2; orphans: 2">
+							<B>Ethernet/PON</B>	(показатели
+							должны находиться в пределах 80-100
+							мБит/сек в обоих направлениях)</P></LI>
+						<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0cm; widows: 2; orphans: 2">
+							<B>ADSL</B>(показатели
+							должны находится в районе  10-15 мБит/сек
+							для входящей и в районе 1 мБит/сек для
+							исходящей (связано с особенностью
+							технологии).</P></LI>
+					</UL>
+
+				<P>После необходимых замеров перейти к замеру скорости с помощью <A HREF="#sp.t72.ru.test">sp.t72.ru/test</A></P>
+			</div>		
+		</td>
+	</tr>
+</table>
+</a><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<H3><A NAME="sp.t72.ru.test"></A></A>
+sp.t72.ru/test</H3>
+
+<P>
+	При
+переходе по данной ссылке начнется
+скачивание файла размером в 1 Gb.
+Скорость скачивания файла указывается
+в Кбайт/с, Мбайт/с, а скорость подключения
+к услугам Кбит/с, Мбит/с (1 байт= 8 бит)
+(например, при тарифе в 50 мБит/сек 
+скорость скачивания будет 6400 кБайт/сек=7
+мБайт/сек). 
+</P>
+
+<P>
+Ниже
+приведена таблица с самыми используемыми
+скоростями:</P>
+
+<TABLE  align="center" class="tablesize table table-bordered table-striped table-hover" >
+	<TR>
+		<th>Скорость 	соединения, мБит/сек</th><Th>1</Th><Th>2</Th><Th>3</Th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th><th>15</th><th>50</th><th>100</th>
+	</TR>
+	<TR class="warning">
+		<td>Скорость скачивания, кбайт</td><td>128</td><td>256</td><td>384</td><td>512</td><td>640</td><td>768</td><td>896</td><td>1024</td><td>1152</td><td>1280</td><td>1920</td><td>6400</td><td>12800</td>
+	</TR>
+	<TR class="warning">
+		<td>Скорость скачивания, Мбайт</td><td>0,13</td>	<td>0,25</td>	<td>0,38</td>	<td>0,5</td>	<td>0,63</td>	<td>0,75</td>	<td>0,88</td>		<td>1</td>		<td>1,13</td>		<td>1,25</td>		<td>1,88</td>		<td>7</td>		<td>12,5</td>
+	</TR>
+</TABLE>
+				<P>
+					Если после проведения необходимых замеров
+					данные близки или полностью удовлетворяют
+					условиям, то объяснить абоненту, что
+					проблем со скоростью не наблюдается
+				</P>
+				<P>
+					Если же после замеров данные на порядок ниже,
+					то необходимо смотреть нагрузку на
+					канал абонента. Это можно сделать с
+					помощью ресурса <A HREF="#stat_t72_ru"><strong>stat.t72.ru</strong></A>
+				</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+</a><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+			<H3><A NAME="stat.t72.ru"></A>stat.t72.ru</H3><p>&nbsp;</p>
+			  <P style="text-indent: 50px;">
+					В адресной строке браузера набираем адрес
+					
+					<a href="http://stat.t72.ru"><strong>stat.t72.ru</strong></a>,
+					</P><P style="text-indent: 50px;">в поле <strong>«Login name»</strong> вводим логин <strong>«stat»</strong>,
+					 <P style="text-indent: 50px;">в поле <strong>«Password»</strong> набираем пароль <strong>«statstat»</strong>:
+				</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m7d5e32bf.jpg" NAME="Рисунок 15" WIDTH=699 HEIGHT=254 />
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>
+					Прежде всего необходимо найти абонента в
+					мониторинге IP-сети и уточнить к какому коммутатору он
+					подключен. Поиск в мониторинге IP-сети
+					осуществляется по следующим параметрам:
+					<strong>лицевой счет, адрес, Ф.И.О., наименование
+					организации, IP-адрес,
+					номер VLAN.</strong>
+				</p>
+				<p>
+					Далее смотрим к какому коммутатору
+					подключен абонент:
+				</P>
+<UL>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0cm; widows: 2; orphans: 2">
+	если
+	к zyxel
+	или eltex,
+	то в правом верхнем углу ресурса
+	stat.t72.ru
+	в поле поиска необходимо указать указать
+	ip-адрес
+	коммутатора</P>
+	<LI><P ALIGN=JUSTIFY STYLE="margin-bottom: 0cm; widows: 2; orphans: 2">
+	если
+	к dslam
+	или switch,
+	то в правом верхнем углу ресурса
+	stat.t72.ru
+	в поле поиска необходимо указать
+	dslamXXX
+	или switchXXX
+	(где XXX
+	– номер dslam
+	или switch)</P>
+</UL>
+
+
+<p>&nbsp;</p>
+<h4>Рассмотрим
+пример на абоненте с лицевым счетом
+7101780</h4>
+
+				<P>
+				<strong>1. Ищем абонента в мониторинге.</strong> Я использовал
+				поиск по фамилии. Как видно из рисунка
+				абонент подключен к коммутатору 1.1.59.85	в 13 порт
+				</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m504df9e4.jpg" NAME="Рисунок 92" WIDTH=642 HEIGHT=295 />
+</P>
+
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P><strong>2. Находим коммутатор в stat.t72.ru. </strong>
+				Поиск выдал нам один результат. В
+				некоторых случаях поиск выдает несколько
+				результатов. В этом случае необходимо
+				смотреть адрес:</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_5ac8063c.jpg" NAME="Рисунок 91" WIDTH=642 HEIGHT=263 />
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P><strong>3. Далее заходим на данный коммутатор и находим порт, </strong>соответствующий абоненту:</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<P align="center">
+<img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_43e1b31f.jpg" NAME="Рисунок 90" WIDTH=642 HEIGHT=232 />
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P><strong>4. Далее	заходим на интерфейс порта</strong> и выбираем режим <strong>Live data:</strong></P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<P align="center">
+ <img class="thumbnail" src="img/%D0%A2%D0%B5%D1%85%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%A4%D0%9B_html_m6fef2369.gif" NAME="Рисунок 89" WIDTH=642 HEIGHT=285 />
+</P>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<P>Данный режим показывает нагрузку на канал в
+					Мбит/сек за период времени равный одному
+					часу. Как видно из графика, абонент свой
+					канал не загружает. Если бы показания
+					графика были на уровне скорости по
+					тарифному плану, то это означало бы, что
+					абонент использует свой канал на 100% и
+					поэтому у него могут возникать проблемы
+					со скачиванием файлов, просмотром
+					web-страниц и т.п.</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<a name="SpeedMesWRouter"></a><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<H4><A NAME="ReportOverinflated"></A>Отчет по перекачавшим</H4>
+<p>&nbsp;</p>
+<p>На данный момент остался ряд тарифов с
+ограничением по трафику, после превышения
+которого, происходит падение скорости.
+Абонентов перекачавших свой лимит можно
+посмотреть в отчете по перекачавшим
+<strong><A HREF="http://tariff.t72.ru/">http://tariff.t72.ru</A> → Интернет
+→ отчет по перекачавшим.</strong> Ниже приведена
+таблица тарифов с ограничением по
+трафику:
+</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<TABLE align="center" class="tablesize table table-bordered table-striped table-hover" >
+	<TR class="warning">
+		<Th><P>Название тарифа</P></Th>
+		<Th><P>Пропускная 	способность</P>
+		<P>8-00 до 24-00, до мБит/с</P>
+		</Th>
+		<Th><P>Пропускная 	способность</P><P>с	24-00 до 8-00, до мБит/с</P></Th>
+		<Th><P>Абонентская плата*</P><P>в	месяц, руб.</P></Th>
+		<Th><P>Лимит ежемесячно входящей информации, Гбайт</P></Th>
+		<Th><P>Понижение	скорости</P></Th>
+	</TR>
+	<TR class="warning">
+		<td>Просто</td>
+		<td>3</td>
+		<td>3</td>
+		<td>300</td>
+		<td>30</td>
+		<td>128</td>
+	</TR>
+	<TR class="warning">
+		<td>Комфортно</td>
+		<td>10</td>
+		<td>20</td>
+		<td>720</td>
+		<td>200</td>
+		<td>3</td>
+	</TR>
+	<TR class="warning">
+		<td>Эксперт</td>
+		<td>10</td>
+		<td>10</td>
+		<td>850</td>
+		<td>200</td>
+		<td>3</td>
+	</TR>
+	<TR class="warning">
+		<td>Безлимитная
+			линейка 10</td>
+		<td>10</td>
+		<td>10</td>
+		<td>900</td>
+		<td>200</td>
+		<td>3</td>
+	</TR>
+	<TR class="warning">
+		<td>Комета</td>
+		<td>1</td>
+		<td>1</td>
+		<td>300</td>
+		<td>30</td>
+		<td>128</td>
+	</TR>
+	<TR class="warning">
+		<td>Молодежный
+			1</td>
+		<td>1</td>
+		<td>1</td>
+		<td>300</td>
+		<td>30</td>
+		<td>256</td>
+	</TR>
+	<TR class="warning">
+		<td>Молодежный
+			2</td>
+		<td>2</td>
+		<td>2</td>
+		<td>500</td>
+		<td>50</td>
+		<td>512</td>
+	</TR>
+	<TR class="warning">
+		<td>Молодежный
+			6</td>
+		<td>6</td>
+		<td>6</td>
+		<td>650</td>
+		<td>90</td>
+		<td>512</td>
+	</TR>
+	<TR class="warning">
+		<td>Молодежный
+			10</td>
+		<td>10</td>
+		<td>10</td>
+		<td>900</td>
+		<td>160</td>
+		<td>512</td>
+	</TR>
+	<TR class="warning">
+		<td>Цунами
+			4</td>
+		<td>4</td>
+		<td>4</td>
+		<td>1000</td>
+		<td>100</td>
+		<td>512</td>
+	</TR>
+	<TR class="warning">
+		<td>Малый
+			бизнес 256</td>
+		<td>1</td>
+		<td>1</td>
+		<td><BR>
+			</td>
+		<td>10</td>
+		<td>256</td>
+	</TR>
+	<TR class="warning">
+		<td>Малый
+			бизнес 512</td>
+		<td>2</td>
+		<td>2</td>
+		<td><BR>
+			</td>
+		<td>20</td>
+		<td>512</td>
+	</TR>
+	<TR class="warning">
+		<td>Малый
+			бизнес 1024</td>
+		<td>4</td>
+		<td>4</td>
+		<td><BR>
+			</td>
+		<td>40</td>
+		<td>1024</td>
+	</TR>
+	<TR class="warning">
+		<td>Малый
+			бизнес 2048</td>
+		<td>8</td>
+		<td>8</td>
+		<td><BR>
+			</td>
+		<td>80</td>
+		<td>2048</td>
+	</TR>
+</TABLE>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<P>
+	Если
+абонент попал в данный отчет, то <strong>объяснить
+ему, что скорость восстановится с первого
+числа следующего месяца</strong>. Так можно
+предложить ему смену тарифа.</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+<H4><a name="TicketRegistration"></A>Оформление тикета</H4>
+<p>&nbsp;</p>
+
+			<P>Если после проведения необходимой диагностики
+			скорость абонента не соответствует
+			тарифному плану, то оформляется
+			трабл-тикет <SPAN STYLE="background: #ffff00">(ссылка
+			на инструкцию по созданию трабл-тикета
+			в фале Общие вопросы)</SPAN>
+			следующего вида:
+			</P>
+
+				<li class="nomarker">Результаты с sp.t72.ru</li>
+				<li class="nomarker"> вх — ххх (где ххх — показания входящей скорости)</li>
+				<li class="nomarker"> исх — ххх (где ххх — показания исходящей скорости)</li>
+				<li class="nomarker"> Результаты с sp.t72.ru/test</li>
+				<li class="nomarker"> ххх м(к)Байт/сек (где ххх — текущий показатель)</li>
+				<li class="nomarker"> Нагрузки на канале нет</li>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<a name="SpeedMesWRouter"></a><a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<H4>Замеры скорости при использовании роутера</H4>
+<table align="center" class="tablesize">
+	<TR class="warning">
+		<td>
+			<div class="well wellwhite">
+				<p>В случае если абонент использует роутер,
+					то объяснить ему, что в этом случае не
+					получиться увидеть реальные адекватные
+					результаты, т.к роутеры имеют свойство
+					занижать скорость (например, при тарифе
+					100 мБит/сек скорость может быть порядка
+					60-70 мБит/сек)</P>
+			</div>		
+		</td>
+	</tr>
+</table>
+

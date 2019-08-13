@@ -1,0 +1,381 @@
+<p>&nbsp;</p>
+<hr>
+<h4>Лицевой счет</h4><a name="lsnumber"></a>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div class="well wellwhite">		
+	   		<p><strong>Лицевой счет (л/с)</strong> – это уникальный номер, присваиваемый абоненту при заключении договора. 
+				<p>Он однозначно идентифицирует абонента и получаемую им услугу. Номер лицевого счета указывается в правом верхнем углу первой страницы договора на оказание услуг.
+		
+			</div>
+		</td>
+	</tr>
+</table>
+<hr>
+<h4>Баланс</h4>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div class="well wellwhite">
+				<p><strong>Баланс</strong> – это информация о наличии/отсутствии денежных средств на текущую дату.
+				<p>Получить информацию о состоянии лицевого счета (баланса) можно следующими способами:
+			</div>
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize table table-bordered table-striped table-hover">
+	<tr class="warning">
+		<th rowspan="3">Вид услуги</th><th colspan="4">Способы получения информации</th>	
+	</tr>
+	<tr class="warning">
+		<th rowspan="2">Личный кабинет</th><th colspan="2">Звонок по тел: 39-00-10</th><th rowspan="2">Звонок на номер 006</th>
+	</tr>
+	<tr class="warning">
+		<th>Автоинформирование <br> (после выбора услуги и <br>введения номера л/с)</th><th>Оператор</th>
+	</tr>
+	<tr class="warning">
+		<td>Интернет</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td>	
+	</tr>
+	<tr class="warning">
+		<td>WiFi.su</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td>	
+	</tr>
+	<tr class="warning">
+		<td>Телефония</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>	
+	</tr>
+	<tr class="warning">
+		<td>Телевидение</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td>	
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<h4>Способы оплаты </h4>
+<table align="center" class="tablesize table table-bordered table-striped table-hover">
+	<tr class="warning">
+		<th>Способ оплаты</th><th>Интернет</th><th>WiFi.su</th><th>Телефония</th><th>Телевидение</th>
+	</tr>
+	<tr class="warning">
+		<td>В кассах РК:<br> ул. Республики,53<br> ул. Ватутина, 10</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>
+	<tr class="warning">
+		<td>Банковской картой через сайт<br> t72.ru в разделе «Оплата»*</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>
+	<tr class="warning">
+		<td>В системе Альфа-клик**</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>	
+	<tr class="warning">
+		<td>В терминалах QiWi</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>
+	<tr class="warning">
+		<td>В банкоматах Сбербанк, Газпромбанк</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>
+	<tr class="warning">
+		<td>в транспортной сети ТТС на <br>автобусных остановках города</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td>
+	</tr>
+	<tr class="warning">
+		<td>Единой картой</td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-plus"></i>***</td>
+	</tr>
+	<tr class="warning">
+		<td><a href="#trusteetransfer">Доверительный платеж</a></td><td class="bold"><i class="glyphicon glyphicon-plus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td><td class="bold"><i class="glyphicon glyphicon-minus"></i></td>
+	</tr>
+</table>
+<p align="right"><span class="label label-default"><i class="glyphicon glyphicon-asterisk"></i>&nbsp;Раздел сайта «Оплата», подраздел «Оплата услуг банковской картой», кнопка «Оплатить по банковской карте».</span></p>
+<p  align="right"><span class="label label-default"><i class="glyphicon glyphicon-asterisk"></i><i class="glyphicon glyphicon-asterisk"></i>Оплата этим способом поступает в РК с задержкой до 3 рабочих дней.</span></p>
+<p  align="right"><span class="label label-default"><i class="glyphicon glyphicon-asterisk"></i><i class="glyphicon glyphicon-asterisk"></i><i class="glyphicon glyphicon-asterisk"></i>При наличии доступа в Интернет.</span></p>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i><a name="trusteetransfer"></a> 
+<h4>«Доверительный доступ»</h4> 
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+		<div class="well wellwhite">
+		<p><strong>Доверительный доступ</strong> – это возможность получения услуги без внесения денежных средств на срок от 1-го до 5-ти дней. 
+			<ol>Для того, чтобы воспользоваться опцией «Доверительный доступ», необходимо:
+				<li>Перейти на сайт «Русской компании» (t72.ru),</li> 
+				<li>Выбрать вкладку «Личный кабинет», </li> 
+				<li>Осуществить <a href="#lcab">вход в систему</a>, введя номер лицевого счета либо логин для доступа в Интернет,</li>  
+				<li>Открыть вкладку «Платежи», </li> 
+				<li>Выбрать «Доверительный доступ», </li> 
+				<li>Установить требуемое абоненту количество дней (от 1-го до 5-ти), </li> 
+				<li>Принять условия оказания услуги.</li>
+			</ol>
+			<p>До истечения срока доверительного доступа абоненту необходимо внести на свой лицевой счет денежную сумму в размере абонентской платы по выбранному тарифному плану.
+			<p>В период действия доверительного доступа абонентская плата начисляется в полном объеме. 
+			<p>Воспользоваться услугой можно один раз в месяц.
+		</div>
+		</td>
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<a name="AreaPresence"></a>
+<h3>Зона присутствия РК</h3>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div class="well wellwhite">
+				<p><strong>Зона присутствия</strong> – это перечень адресов, по которым оператор связи РК имеет техническую возможность оказания определенных услуг.</p>
+				<p>Для проверки возможности предоставления услуг, уточняем у клиента адрес оказания услуги.</p>
+				<p>Проверка технической возможности оказания услуг выполняется в файле «Зона присутствия» (<a href="#">ссылка на файл</a>). В данном файле указаны адреса присутствия РК, виды услуг и технологии.</p> 
+				<p>Если запрашиваемого адреса нет с файле «Зона присутствия», переводим звонок в <a href="#ModAO" role="button" data-toggle="modal"><strong>Абонентский Отдел</a> (если это абонент)</strong> или <strong><a href="#ModAO" role="button" data-toggle="modal">Отдел продаж</a> (если это потенциальный клиент)</strong>.</p>
+				<ol>Помимо этого, клиент/абонент имеет возможность самостоятельной проверки технической возможности:
+					<li>на сайте РК по ссылке: <a href=" http://t72.ru/personal/ability/ ">http://t72.ru/personal/ability/</a> (на сайте вкладка «Для дома», строка «Техническая возможность»), выбрав интересующий адрес из списка.</li>
+					<li>в программе «2GIS», найдя интересующий адрес, кликнув на найденное строение и выбрав третью вкладку. Пример приведен на рисунке ниже:</li>
+				</ol>
+			</div>
+		</td>
+	</tr>
+</table>
+<p align="center"><img class="thumbnail" src="img/genquest9.jpg" alt="" /></p>
+ 
+<hr>
+<a name="lcab2"></a>
+<h4>«Личный кабинет»</h4>
+
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+		<div class="well wellwhite">
+				Это информационная система, созданная РК специально для удобства наших абонентов.
+				<p>&nbsp;</p> 
+
+				<ul>Возможности системы:
+					<li>Отображение контактных данных абонента (номера телефона, адреса эл. почты)</li>
+					<li>Мониторинг всех получаемых услуг и текущих тарифных планов</li>
+					<li>Детализация получаемых услуг (по телефонии – расшифровки МГ/МН звонков, по услуге Интернет – расшифровка Интернет-трафика)</li>
+					<li>Информация о балансе по всем получаемым услугам</li>
+					<li>Формирование счета для оплаты оказываемых услуг</li>
+					<li>Оплата за услуги связи</li>
+					<li>Предварительное ознакомление с условиями новых тарифных планов</li>
+					<li>Смена тарифных планов (<strong>Внимание:</strong> только для услуги Интернет!)</li>
+				</ul>
+			</div>
+		</td>
+	</tr>
+</table>
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i><a name="trusteetransfer"></a>
+<a name="lcab"></a>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+		<div class="well wellwhite">
+<h4>Авторизация в личном кабинете</h4> 
+<p>Авторизация производится на сайте РК: <a href="http://www.t72.ru/">t72.ru</a> → Раздел <a href="https://lk.t72.ru/login/">«Личный кабинет»</a></p>
+			</div>
+		</td>
+	</tr>
+</table>
+<p align="center"><img class="thumbnail" width="600" height="254" src="img/genquest1.jpg" alt="" /></p>
+<p>&nbsp;</p>
+<table align="center" class="tablesize ">
+	<tr class="warning">
+		<td>
+			<div class="well wellwhite">
+				<ol>Абонент имеет возможность выбора способа авторизации для доступа в личный кабинет – <a href="#lsnumber">по номеру лицевого счета</a> или по логину для доступа в Интернет:
+					<li>Выбрать вкладку «Логин для Интернета» или «Лицевой счёт» и заполнить выбранное одноименное поле (ввести логин или номер л/с)</li>
+					<li>В поле «Пароль» ввести пароль (у абонентов по услуге Интернет он совпадает с паролем для доступа в Интернет)</li>
+					<li>Если пароль абоненту неизвестен, воспользоваться опцией «Напомнить пароль», в результате чего абонент получит смс или эл. письмо с указанием пароля. Для восстановления пароля принимаются запросы только при указании того контактного номера телефона или адреса эл. почты, которые указывались абонентом при заключении договора.</li> 
+					<li>Если абоненту не удается воспользоваться опцией «Напомнить пароль», он должен обратиться в <a href="#ao">Абонентский отдел</a> (лично либо по телефону) </li>
+					<li>В поле «Буквы» ввести латинские буквы, которые отображены справа на картинке</li> 
+					<li>Нажать кнопку «Войти»</li> 
+				</ol>
+			</div>
+		</td>
+	</tr>
+</table>
+<hr>
+<a name="mainpagelk"></a>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<h4>Внешний вид главной страницы личного кабинета</h4>
+<table align="center" class="tablesize ">
+	<tr>
+		<td>
+	<p class="well wellwhite">После входа в личный кабинет абонент может увидеть свои контактные данные, получить информацию о балансе и подключенных услугах:
+		</td>
+	</tr>
+</table>
+<p align="center"><img class="thumbnail tablesize" src="img/genquest2.jpg" alt="" /></p>
+<hr>
+<a name="payview"></a>
+<h4>Просмотр выставленных счетов и поступивших платежей</h4>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div   class="well wellwhite"> 
+			<p>Для просмотра всех выставленных счетов за период действия договора или поступивших платежей (независимо от способа оплаты услуг) нажимаем на ссылку <strong>«Счета»</strong> или <strong>«Платежи»</strong> в поле <strong>«Действия»</strong>:
+
+<p align="center"> <img class="thumbnail" src="img/genquest3.jpg" alt="" /></p>
+			</div>
+		</td>
+	</tr>
+</table>
+<hr>
+<a name="payment"></a>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<h4>Осуществление платежа</h3>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div class="well wellwhite">
+				<ol>Для осуществления нового платежа:
+					<li>Во вкладке «Платежи» нажать на кнопку «Добавить платёж» и выбрать лицевой счет услуги, по которой планируется платеж. </li>
+					<li>Выбрать интересующий абонента вид платежа (единая карта экспресс-оплаты, оплата банковской картой, доверительный доступ), пройти все необходимые шаги либо ознакомиться с соответствующими пошаговыми инструкциями.</li>
+				</ol>
+			</div>		
+		</td>
+	</tr>
+</table>
+<hr>
+<h4>Вкладка «Телефония»</h4>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<a name="telextview"></a>
+			<div class="well wellwhite">
+				<p><strong>Внешний вид</strong></p><p>&nbsp;</p>
+				<p>Виден номер лицевого счета, номер телефона и действующий тарифный план:</p>
+
+
+				<p align="center"><img class="thumbnail" width="700" src="img/genquest4.jpg" alt="" /></p>
+
+
+<table align="center" width="700">
+	<tr>
+		<td>
+			<div align="center" class="alert alert-danger"><strong>ВНИМАНИЕ!</strong> Изменение тарифного плана и/или пароля по услуге телефония из ЛК <strong>невозможны!</strong> </div>
+		</td>
+	</tr>
+</table>
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<a name="teldetail"></a>
+			<div class="well wellwhite">
+				<strong>Детализация исходящих телефонных соединений</strong><p>&nbsp;</p>
+					<ol>Для детализации исходящих телефонных соединений:
+						<li>Выбрать ссылку «Смотреть» в столбце «Сессии»</li>
+						<li>Задать интересующий временной диапазон </li>
+						<li>Нажать кнопку «Показать» для отображения результатов запроса на мониторе</li>
+						<li>В случае необходимости выгрузки такого отчета можно воспользоваться опцией «Экспортировать в таблицу Excel»</li> 
+					</ol>	
+
+
+<p align="center"><img class="thumbnail" width="700" src="img/genquest5.jpg" alt="" /></p>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<hr>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<h4>Вкладка «Интернет с динамическим IP»</h4>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+		<a name="dynipextview"></a>
+			<div class="well wellwhite">
+				<strong>Внешний вид</strong><p>&nbsp;</p>
+				<p>Виден номер лицевого счета, логин и действующий тарифный план:</p>
+
+				<p align="center"><img class="thumbnail" width="700" src="img/genquest6.jpg" alt="" /></p>
+			</div>		
+		</td>
+	</tr>
+</table>
+
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<a name="dynipdetail"></a>
+			<div class="well wellwhite">	
+				<strong>Детализация Интернет-трафика</strong><p>&nbsp;</p>
+				<ol>Для детализации Интернет-трафика необходимо:
+					<li>Выбрать ссылку «Смотреть» в столбце «Сессии»</li>
+					<li>Задать интересующий временной диапазон</li> 
+					<li>Нажать кнопку «Показать» для отображения результатов запроса на мониторе</li>
+					<li>В случае необходимости выгрузки такого отчета можно воспользоваться опцией «Экспортировать в таблицу Excel»</li> 
+				</ol>
+			</div>		
+		</td>
+	</tr>
+</table><a name="dyniptarifch"></a>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<p>&nbsp;</p>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			
+			<div class="well wellwhite">	
+				<strong>Смена тарифного плана</strong><p>&nbsp;</p>
+					
+					<ol>Для смены тарифного плана:
+						<li>Нажать на ссылку «Изменить» в столбце «Тариф».</li>
+						<li>В открывшейся вкладке выбрать интересующий тарифный план, ознакомиться с его условиями, поставить галку в поле «Настоящим я выражаю свое согласие на изменение условий договора на абонентское обслуживание по выделенным линиям»</li>
+						<li>Нажать кнопку «Перейти». Тарифный план изменится с 0 часов 00 минут следующего дня.</li>
+					</ol>
+
+<p align="center"><img class="thumbnail" width="700" src="img/genquest7.jpg" alt="" /></p>
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+		<a name="DynIPPassChange"></a>
+			<div class="well wellwhite">
+				<strong>Изменение пароля для доступа в сеть Интернет</strong>
+				<ol>Для изменения пароля доступа в Интернет в личном кабинете необходимо:
+					<li>Нажать на ссылку «Изменить» в столбце «Пароль».</li> 
+					<li>Ввести в соответствующие поля старый пароль, новый пароль и его подтверждение в поле «Проверка пароля».</li>
+				</ol>
+				<div class="alert alert-warning">Обращаем внимание абонента, что при смене 
+				пароля для доступа в Интернет, необходимо также произвести замену пароля на роутере. 
+				Это можно выполнить с помощью оператора техподдержки или заказав платный выезд техника 
+				(<a href="">ссылка на условия платного выезда</a>).</div> 
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" width="700">
+	<tr>
+		<td>
+			<div align="center" class="alert alert-danger"><strong>ВНИМАНИЕ!</strong>
+			При смене пароля для входа в Интернет требуется смена пароля для Wi-Fi роутера. Измениться пароль для подключения к сети Интернет, но не пароль на.
+			</div>
+		</td>
+	</tr>
+</table>
+
+<hr><a name="CaTV"></a>
+<a href="#top" class="btn btn-default"><i class="glyphicon glyphicon-arrow-up"></i></a>&nbsp;<button class="btn btn-primary" onclick="javascript: history.back()">Назад</button>
+<h4>Вкладка «Кабельное TV»</h4>
+<table align="center" class="tablesize">
+	<tr>
+		<td>
+			<div class="well wellwhite">
+				<strong>Внешний вид</strong><p>&nbsp;</p>
+				<p>Виден номер лицевого счета, идентификатор услуги и действующий тарифный план:
+
+
+<p align="center"><img class="thumbnail"  width="700" src="img/genquest8.jpg" alt="" /></p>
+			</div>		
+		</td>
+	</tr>
+</table>
+<table align="center" width="700">
+	<tr>
+		<td>
+			<div align="center" class="alert alert-danger"><strong>ВНИМАНИЕ!</strong> 
+				Изменение тарифного плана и/или пароля по услуге кабельное телевидение из ЛК <strong>невозможно</strong>. 
+				Просмотр сессий недоступен.</div>
+		</td>
+	</tr>
+</table>
+
+			

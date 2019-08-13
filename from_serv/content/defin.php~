@@ -1,0 +1,40 @@
+<h4>Лицевой счет</h4>
+<p><strong>Лицевой счет (л/с)</strong> – это уникальный номер, присваиваемый абоненту при заключении договора. 
+<p>Он однозначно идентифицирует абонента и получаемую им услугу. Номер лицевого счета указывается в правом верхнем углу первой страницы договора на оказание услуг.
+
+<h4>Баланс</h4>
+<p><strong>Баланс</strong> – это информация о наличии/отсутствии денежных средств на текущую дату.
+<p>Получить информацию о состоянии лицевого счета (баланса) можно следующими способами:
+
+<table align="center" class="tablesize table table-bordered table-striped table-hover">
+	<tr>
+		<th rowspan="3">Вид услуги</th><th colspan="4">Способы получения информации</th>	
+	</tr>
+	<tr>
+		<th rowspan="2">Личный кабинет</th><th colspan="2">Звонок по тел: 39-00-10</th><th>Звонок на номер 006</th>
+	</tr>
+	<tr>
+		<th>Автоинформирование <br> (после выбора услуги и <br>введения номера л/с)</th><th>Оператор</th>
+	</tr>
+	<tr>
+		<td>Интернет</td><td>+</td><td>+</td><td>+</td><td>+</td>	
+	</tr>
+	<tr>
+		<td>WiFi.su</td><td>+</td><td>+</td><td>+</td><td>+</td>	
+	</tr>
+	<tr>
+		<td>Телефония</td><td>+</td><td>+</td><td>+</td><td>+</td>	
+	</tr>
+	<tr>
+		<td>Телевидение</td><td>+</td><td>+</td><td>+</td><td>+</td>	
+	</tr>
+</table>
+
+<img src="img/genquest1.jpg" alt="" />
+<img src="img/genquest2.jpg" alt="" />
+<img src="img/genquest3.jpg" alt="" />
+<img src="img/genquest4.jpg" alt="" />
+<img src="img/genquest5.jpg" alt="" />
+<img src="img/genquest6.jpg" alt="" />
+<img src="img/genquest7.jpg" alt="" />
+<img src="img/genquest8.jpg" alt="" />
