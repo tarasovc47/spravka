@@ -137,6 +137,10 @@ class SiteController extends Controller
         $getView = Yii::$app->request->pathInfo;
         switch ($getView)
         {
+            case '':
+                {
+                    return "Меню телефонного справочника";
+                }
             case 'site/index':
                 {
                     return "Меню телефонного справочника";
@@ -156,6 +160,5 @@ class SiteController extends Controller
         elseif ($sidebarName == "Меню справочника Тараскуля"){
             include "../views/sidebars/taraskul.php";
         }
-
     }
 }

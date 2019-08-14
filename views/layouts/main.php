@@ -68,18 +68,16 @@ AppAsset::register($this);
 
     <div class="row">
         <div class="col-sm-2 col-md-2 my-sidebar">
-            <ul class="nav nav-sidebar">
-                <li><?= SiteController::renderSidebar() ?></li>
-            </ul>
+            <?= SiteController::renderSidebar() ?>
         </div>
-    <div class="container my-container">
-        <?= Breadcrumbs::widget([
-            'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
-        ]) ?>
-        <?= Alert::widget() ?>
-        <?= $content ?>
+        <div class="container my-container">
+            <?= Breadcrumbs::widget([
+                'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
+            ]) ?>
+            <?= Alert::widget() ?>
+            <?= $content ?>
+        </div>
     </div>
-</div>
 
 <footer class="footer">
     <div class="container">

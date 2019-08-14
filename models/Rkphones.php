@@ -78,7 +78,9 @@ class Rkphones extends \yii\db\ActiveRecord
     {
         foreach (self::rkphonesCompanyName() as $item)
         {
-            echo "<li><a href='#sql_".$item."'> ".$item."</a></li>";
+            echo "<ul class='nav nav-sidebar'>
+                      <li><a href='#sql_".$item."'> ".$item."</a></li>
+                  </ul>";
         }
     }
     public static function renderTable()
@@ -93,7 +95,9 @@ class Rkphones extends \yii\db\ActiveRecord
 
         foreach (self::rkphonesCompanyName() as $company) {?>
             <table class="table" id="sql_<?= $company ?>">
-                <caption><?= $company ?></caption>
+                <thead>
+                    <tr><?= $company ?></tr>
+                </thead>
                 <th>Отдел</th>
                 <th>Должность</th>
                 <th>ФИО</th>

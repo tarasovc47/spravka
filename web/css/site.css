@@ -123,4 +123,36 @@ a.desc:after {
 .my-sidebar {
     background-color: antiquewhite;
     position: fixed;
+    overflow-y: scroll!important;
+    height: 94%;
+}
+.my-container {
+
+}
+.my-taraskul-sidebar {
+    padding: 2px;
+    list-style-position: inside;
+}
+.my-taraskul-sidebar > li {
+    border-bottom: #4a4bff 1px solid;
+}
+.my-taraskul-sidebar > .active > a,
+.my-taraskul-sidebar > .active > a:hover,
+.my-taraskul-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #428bca;
+}
+.taraskul-table {
+    width: 100%;
+}
+.row {
+    margin-left: 0!important;
+    margin-right: 0!important;
+    padding-top: 54px!important;
+}
+.my-taraskul-body {
+    width: 83.3333333333%;
+    float: right;
+    overflow-y: scroll!important;
+    height: 94%;
 }
