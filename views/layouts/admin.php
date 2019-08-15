@@ -38,11 +38,11 @@ AppAsset::register($this);
     echo Nav::widget([
         'options' => ['class' => 'navbar-nav navbar-left'],
         'items' => [
-            ['label' => 'Телефонный справочник', 'url' => ['/site/index']],
+            ['label' => 'Телефонный справочник', 'url' => ['/admin/rkphones']],
             ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
-            ['label' => 'Общие вопросы', 'url' => ['/site/about']],
+            ['label' => 'Общие вопросы', 'url' => ['/admin/obschie']],
             ['label' => 'Юридические лица', 'url' => ['/site/about']],
             ['label' => 'Физические лица', 'url' => ['/site/about']],
             ['label' => 'Приложения', 'url' => ['/site/about']],

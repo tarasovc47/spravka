@@ -42,14 +42,14 @@ AppAsset::register($this);
             ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
-            ['label' => 'Общие вопросы', 'url' => ['/site/about']],
+            ['label' => 'Общие вопросы', 'url' => ['/site/obschie']],
             ['label' => 'Юридические лица', 'url' => ['/site/about']],
             ['label' => 'Физические лица', 'url' => ['/site/about']],
             ['label' => 'Приложения', 'url' => ['/site/about']],
             ['label' => 'Акции', 'url' => ['/site/about']],
             ['label' => 'Зона присутствия', 'url' => ['/site/about']],
             Yii::$app->user->isGuest ? (
-                ['label' => 'Админка', 'url' => ['/site/login']]
+                ['label' => 'Админка', 'url' => ['/admin']]
             ) : (
                 '<li>'
                 . Html::beginForm(['/site/logout'], 'post')
