@@ -3,6 +3,8 @@
 namespace app\models;
 
 use Yii;
+use yii\db\Query;
+use yii\helpers\ArrayHelper;
 
 /**
  * This is the model class for table "obschie".
@@ -46,5 +48,41 @@ class Obschie extends \yii\db\ActiveRecord
             'image' => 'Image',
             'note' => 'Note',
         ];
+    }
+    public static function obschieArray()
+    {
+        $obschieArray = (new Query())
+            ->select('*')
+            ->from('obschie')
+            ->all();
+        return $obschieArray;
+    }
+    public static function obschieTitle()
+    {
+        $questions = ArrayHelper::getColumn(self::obschieArray(),'title');
+        return $questions;
+    }
+    public static function renderSidebar()
+    {
+        foreach (self::obschieTitle() as $title) {
+            echo "<ul class='nav nav-sidebar'>
+                      <li><a href='#sql_".$title."'> ".$title."</a></li>
+                  </ul>";
+        }
+    }
+    public static function renderTable()
+    {
+        foreach (self::obschieArray() as $item) {
+            $title = $item['title'];
+            $content = $item['content'];
+            $image = $item['image'];
+            $note = $item['note'];
+            echo "
+                <div class='obschie_faq'>
+                    <h2>".$title."</h2><br>
+                    <h3>".$content."</h3><br>
+                </div>
+            ";
+        }
     }
 }

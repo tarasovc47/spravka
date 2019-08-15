@@ -2,6 +2,7 @@
 
 namespace app\controllers;
 
+use app\models\Obschie;
 use app\models\Rkphones;
 use Yii;
 use yii\filters\AccessControl;
@@ -131,6 +132,10 @@ class SiteController extends Controller
     {
         return $this->render('taraskul');
     }
+    public  function actionObschie()
+    {
+        return $this->render('obschie');
+    }
 
     public static function returnNameSidebar()
     {
@@ -149,6 +154,10 @@ class SiteController extends Controller
                 {
                     return "Меню справочника Тараскуля";
                 }
+            case 'site/obschie':
+                {
+                    return "Общие вопросы";
+                }
         }
     }
     public static function renderSidebar()
@@ -159,6 +168,9 @@ class SiteController extends Controller
         }
         elseif ($sidebarName == "Меню справочника Тараскуля"){
             include "../views/sidebars/taraskul.php";
+        }
+        elseif ($sidebarName == "Общие вопросы"){
+            Obschie::renderSidebar();
         }
     }
 }
