@@ -79,8 +79,10 @@ class Obschie extends \yii\db\ActiveRecord
             $note = $item['note'];
             echo "
                 <div class='obschie_faq'>
-                    <h2>".$title."</h2><br>
-                    <h3>".$content."</h3><br>
+                    <h4>".$title."</h4>
+                    <div class='obschie-content'>".$content."</div>
+                    <div class='obschie-image'></div>
+                    <div class='obschie-note'></div>
                 </div>
             ";
         }

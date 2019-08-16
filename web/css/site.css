@@ -156,3 +156,10 @@ a.desc:after {
     overflow-y: scroll!important;
     height: 94%;
 }
+.obschie-main {
+    background-color: beige;
+}
+.obschie-content {
+    background-color: white;
+    padding: 10px;
+}
