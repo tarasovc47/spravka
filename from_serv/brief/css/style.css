@@ -1,0 +1,32 @@
+li > a
+    {
+    height:3rem!important;
+    line-height: 3rem!important;
+    }
+.drop3
+    {
+    height:2rem!important;
+    line-height:2rem!important;
+    }
+
+.antibox
+    {
+        box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.16), 0 0 0 0 rgba(0, 0, 0, 0.12)!important;
+        border: 0!important;
+     
+        
+    }
+
+.confixed
+    {
+        position: fixed;
+    }
+
+#toTop 
+    {
+        position:fixed;
+        z-index:9999;
+        bottom:30px;
+        right:100px;    
+       
+    }
