@@ -2,12 +2,14 @@
 
 namespace app\modules\admin\controllers;
 
+use app\models\ImageUpload;
 use Yii;
 use app\models\Obschie;
 use app\models\ObschieSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
+use yii\web\UploadedFile;
 
 /**
  * ObschieController implements the CRUD actions for Obschie model.
@@ -123,5 +125,18 @@ class ObschieController extends Controller
         }
 
         throw new NotFoundHttpException('The requested page does not exist.');
+    }
+    public function actionSetImage($id)
+    {
+        $model = new ImageUpload();
+        if (Yii::$app->request->isPost)
+        {
+            $obschie = $this->findModel($id);
+            $file = UploadedFile::getInstance($model,'image');
+            if($obschie->saveImage($model->uploadFile($file, $obschie->image))){
+                return $this->redirect(['view', 'id'=>$obschie->id]);
+            }
+        }
+        return $this->render('image', ['model' => $model]);
     }
 }

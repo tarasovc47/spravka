@@ -2,6 +2,7 @@
 
 use yii\helpers\Html;
 use yii\grid\GridView;
+use app\models\ImageUpload;
 
 /* @var $this yii\web\View */
 /* @var $searchModel app\models\ObschieSearch */
@@ -30,6 +31,13 @@ $this->params['breadcrumbs'][] = $this->title;
             'title:ntext',
             'content:ntext',
             'image:ntext',
+            /*[
+                'format' => 'html',
+                'label' => 'Image',
+                'value' => function($data){
+                    return Html::img($data->getImage);
+                }
+            ],*/
             'note:ntext',
 
             ['class' => 'yii\grid\ActionColumn'],
