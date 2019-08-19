@@ -81,8 +81,8 @@ class Obschie extends \yii\db\ActiveRecord
                 <div class='obschie_faq'>
                     <h4>".$title."</h4>
                     <div class='obschie-content'>".$content."</div>
-                    <div class='obschie-image'></div>
-                    <div class='obschie-note'></div>
+                    <div class='obschie-image'>.$image.</div>
+                    <div class='obschie-note'>.$note.</div>
                 </div>
             ";
         }
