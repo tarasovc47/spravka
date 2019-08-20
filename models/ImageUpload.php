@@ -62,13 +62,4 @@ class ImageUpload extends Model
         $imageUploadModel = new ImageUpload();
         $imageUploadModel->deleteCurrentImage($this->image);
     }
-    public function getImage()
-    {
-        if ($this->image)
-        {
-            return '/uploads/'.$this->image;
-        }
-        return '/no-image.png';
-        /*return ($this->image)?'/uploads/'.$this->image:'/no-image.png';*/
-    }
 }

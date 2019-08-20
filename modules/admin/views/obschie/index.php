@@ -30,14 +30,14 @@ $this->params['breadcrumbs'][] = $this->title;
             'id',
             'title:ntext',
             'content:ntext',
-            'image:ntext',
-            /*[
+            /*'image:ntext',*/
+            [
                 'format' => 'html',
-                'label' => 'Image',
+                'label' => 'image',
                 'value' => function($data){
-                    return Html::img($data->getImage);
-                }
-            ],*/
+                    return Html::img($data->getImage(), ['width' => 300]);
+                },
+            ],
             'note:ntext',
 
             ['class' => 'yii\grid\ActionColumn'],
