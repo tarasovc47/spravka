@@ -139,4 +139,16 @@ class ObschieController extends Controller
         }
         return $this->render('image', ['model' => $model]);
     }
+    public function actionDeleteImage($id)
+    {
+        $model = $this->findModel($id);
+        $currentImage = $model->image;
+        unlink ('../web/uploads/'.$currentImage);
+        $model->image = null;
+        $model->update();
+        if (Yii::$app->request->isAjax){
+            return 'deleted';
+        }
+        else return $this->redirect(['view', 'id' => $model->id]);
+    }
 }

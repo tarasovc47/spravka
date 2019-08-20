@@ -27,22 +27,22 @@ class ImageUpload extends Model
             return $this->saveImage();
         }
     }
-    public function deleteCurrentImage($currentImage)
+    public static function deleteCurrentImage($currentImage)
     {
-        if ($this->fileExist($currentImage))
+        if (self::fileExist($currentImage))
         {
-            unlink($this->getFolder().$currentImage);
+            unlink(self::getFolder().$currentImage);
         }
     }
-    public function fileExist($currentImage)
+    public static function fileExist($currentImage)
     {
         if (!empty($currentImage)&& $currentImage != null)
         {
-            return file_exists($this->getFolder() . $currentImage);
+            return file_exists(self::getFolder() . $currentImage);
         }
     }
 
-    private function getFolder()
+    public static function getFolder()
     {
         return Yii::getAlias('@web') . 'uploads/';
     }

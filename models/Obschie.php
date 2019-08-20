@@ -50,6 +50,7 @@ class Obschie extends \yii\db\ActiveRecord
             'note' => 'Note',
         ];
     }
+
     public static function obschieArray()
     {
         $obschieArray = (new Query())
@@ -58,19 +59,22 @@ class Obschie extends \yii\db\ActiveRecord
             ->all();
         return $obschieArray;
     }
+
     public static function obschieTitle()
     {
-        $questions = ArrayHelper::getColumn(self::obschieArray(),'title');
+        $questions = ArrayHelper::getColumn(self::obschieArray(), 'title');
         return $questions;
     }
+
     public static function renderSidebar()
     {
         foreach (self::obschieTitle() as $title) {
             echo "<ul class='nav nav-sidebar'>
-                      <li><a href='#sql_".$title."'> ".$title."</a></li>
+                      <li><a href='#sql_" . $title . "'> " . $title . "</a></li>
                   </ul>";
         }
     }
+
     public static function renderTable()
     {
         foreach (self::obschieArray() as $item) {
@@ -79,15 +83,16 @@ class Obschie extends \yii\db\ActiveRecord
             $image = $item['image'];
             $note = $item['note'];
             echo "
-                <div class='obschie_faq'>
-                    <h4>".$title."</h4>
-                    <div class='obschie-content'>".$content."</div>
-                    ".Html::img('@web/uploads/'.$image.'')."
+                <div class='obschie_faq' id='sql_" . $title . "'>
+                    <h4>" . $title . "</h4>
+                    <div class='obschie-content'>" . $content . "</div>
+                    " . Html::img('@web/uploads/' . $image . '') . "
                     <div class='obschie-note'>.$note.</div>
                 </div>
             ";
         }
     }
+
     public function saveImage($filename)
     {
         $this->image = $filename;
@@ -106,6 +111,6 @@ class Obschie extends \yii\db\ActiveRecord
     }
     public function getImage()
     {
-        return ($this->image)?'/uploads/'.$this->image:'/no-image.png';
+        return ($this->image)?'/uploads/'.$this->image:Yii::getAlias('@web/uploads/').'no-image.png';
     }
 }
