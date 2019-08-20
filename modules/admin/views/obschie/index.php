@@ -8,7 +8,7 @@ use app\models\ImageUpload;
 /* @var $searchModel app\models\ObschieSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Obschies';
+$this->title = 'Obschie';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="obschie-index">
@@ -30,7 +30,6 @@ $this->params['breadcrumbs'][] = $this->title;
             'id',
             'title:ntext',
             'content:ntext',
-            /*'image:ntext',*/
             [
                 'format' => 'html',
                 'label' => 'image',
