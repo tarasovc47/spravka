@@ -43,6 +43,7 @@ AppAsset::register($this);
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
             ['label' => 'Общие вопросы', 'url' => ['/admin/obschie']],
+            ['label' => 'Реестр группы компаний', 'url' => ['/admin/reestrofcompanies']],
             ['label' => 'Юридические лица', 'url' => ['/site/about']],
             ['label' => 'Физические лица', 'url' => ['/site/about']],
             ['label' => 'Приложения', 'url' => ['/site/about']],
