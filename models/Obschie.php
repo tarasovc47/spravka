@@ -82,14 +82,26 @@ class Obschie extends \yii\db\ActiveRecord
             $content = $item['content'];
             $image = $item['image'];
             $note = $item['note'];
-            echo "
+            if ($image == null)
+            {
+                echo "
+                    <div class='obschie_faq' id='sql_" . $title . "'>
+                        <h4>" . $title . "</h4>
+                        <div class='obschie-content'>" . $content . "</div>
+                        <div class='obschie-note'>".$note."</div>
+                    </div>
+                ";
+            }
+            else {
+                echo "
                 <div class='obschie_faq' id='sql_" . $title . "'>
                     <h4>" . $title . "</h4>
                     <div class='obschie-content'>" . $content . "</div>
                     " . Html::img('@web/uploads/' . $image . '') . "
-                    <div class='obschie-note'>.$note.</div>
+                    <div class='obschie-note'>".$note."</div>
                 </div>
             ";
+            }
         }
     }
 
