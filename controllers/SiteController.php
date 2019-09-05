@@ -136,6 +136,10 @@ class SiteController extends Controller
     {
         return $this->render('obschie');
     }
+    public function actionTaraskul_sql()
+    {
+        return $this->render('taraskul_sql');
+    }
 
     public static function returnNameSidebar()
     {

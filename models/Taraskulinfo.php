@@ -3,6 +3,7 @@
 namespace app\models;
 
 use Yii;
+use yii\db\Query;
 
 /**
  * This is the model class for table "taraskulinfo".
@@ -49,5 +50,13 @@ class Taraskulinfo extends \yii\db\ActiveRecord
             'email' => 'Email',
             'site' => 'Site',
         ];
+    }
+    public static function query()
+    {
+        $content = (new Query())
+            ->select('*')
+            ->from('taraskulinfo')
+            ->all();
+        return $content;
     }
 }

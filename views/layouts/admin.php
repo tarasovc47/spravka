@@ -40,6 +40,12 @@ AppAsset::register($this);
         'items' => [
             ['label' => 'Телефонный справочник', 'url' => ['/admin/rkphones']],
             ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
+            //['label' => 'Тараскуль_sql', 'url' => ['/admin/taraskulinfo']],
+            ['label' => 'Тараскуль_sql', 'items' =>
+                ['label' => 'Тараскуль Общая информация', 'url' => '/admin/taraskulinfo'],
+                ['label' => 'Тараскуль Сотрудники', 'url' => '/admin/taraskulphones'],
+                ['label' => 'Тараскуль спальные корпусы', 'url' => '/admin/taraskulcorpus'],
+            ],
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
             ['label' => 'Общие вопросы', 'url' => ['/admin/obschie']],

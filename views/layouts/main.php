@@ -40,6 +40,7 @@ AppAsset::register($this);
         'items' => [
             ['label' => 'Телефонный справочник', 'url' => ['/site/index']],
             ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
+            ['label' => 'Тараскуль_sql', 'url' => ['/site/taraskul_sql']],
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
             ['label' => 'Общие вопросы', 'url' => ['/site/obschie']],

@@ -156,7 +156,8 @@ a.desc:after {
     overflow-y: scroll!important;
     height: 94%;
 }
-.obschie-main {
+.obschie-main,
+.taraskul-main {
     background-color: beige;
     position: fixed;
     overflow-y: scroll!important;
