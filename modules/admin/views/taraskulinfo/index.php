@@ -7,7 +7,7 @@ use yii\grid\GridView;
 /* @var $searchModel app\models\TaraskulinfoSearch */
 /* @var $dataProvider yii\data\ActiveDataProvider */
 
-$this->title = 'Taraskulinfos';
+$this->title = 'Taraskulinfo';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="taraskulinfo-index">
@@ -31,8 +31,8 @@ $this->params['breadcrumbs'][] = $this->title;
             'content:ntext',
             'address:ntext',
             'phone:ntext',
-            //'email:ntext',
-            //'site:ntext',
+            'email:ntext',
+            'site:ntext',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],

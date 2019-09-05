@@ -14,17 +14,17 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'name')->textarea(['rows' => 6]) ?>
 
-    <?= $form->field($model, 'typeofactivity')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'typeofactivity')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'numberresource')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'numberresource')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'presencezone')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'presencezone')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'clients')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'clients')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'services')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'services')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'colspan')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'colspan')->textarea(['rows' => 1]) ?>
 
     <div class="form-group">
         <?= Html::submitButton('Save', ['class' => 'btn btn-success']) ?>

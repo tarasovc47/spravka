@@ -12,17 +12,17 @@ use yii\widgets\ActiveForm;
 
     <?php $form = ActiveForm::begin(); ?>
 
-    <?= $form->field($model, 'title')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'title')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'content')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'content')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'address')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'address')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'phone')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'phone')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'email')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'email')->textarea(['rows' => 1]) ?>
 
-    <?= $form->field($model, 'site')->textarea(['rows' => 6]) ?>
+    <?= $form->field($model, 'site')->textarea(['rows' => 1]) ?>
 
     <div class="form-group">
         <?= Html::submitButton('Save', ['class' => 'btn btn-success']) ?>
