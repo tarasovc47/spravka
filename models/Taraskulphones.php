@@ -3,6 +3,8 @@
 namespace app\models;
 
 use Yii;
+use yii\db\Query;
+use yii\helpers\ArrayHelper;
 
 /**
  * This is the model class for table "taraskulphones".
@@ -52,5 +54,36 @@ class Taraskulphones extends \yii\db\ActiveRecord
             'floor' => 'Floor',
             'room' => 'Room',
         ];
+    }
+    public static function query()
+    {
+        $content = (new Query())
+            ->select('*')
+            ->from('taraskulphones')
+            ->all();
+        return $content;
+    }
+    public static function taraskulQueryArray()
+    {
+        $taraskulphones_array = (new Query())
+            ->select('department')
+            ->from('taraskulphones')
+            ->groupBy('department')
+            ->all();
+        return $taraskulphones_array;
+    }
+    public static function taraskulphonesTitle()
+    {
+        $title = ArrayHelper::getColumn(self::taraskulQueryArray(),'department');
+        return $title;
+    }
+    public static function renderSidebar()
+    {
+        foreach (self::taraskulphonesTitle() as $item)
+        {
+            echo "<ul class='nav nav-sidebar'>
+                      <li><a href='#sql_".$item."'> ".$item."</a></li>
+                  </ul>";
+        }
     }
 }

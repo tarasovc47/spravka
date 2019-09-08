@@ -4,6 +4,8 @@ namespace app\controllers;
 
 use app\models\Obschie;
 use app\models\Rkphones;
+use app\models\Taraskulinfo;
+use app\models\Taraskulphones;
 use Yii;
 use yii\filters\AccessControl;
 use yii\web\Controller;
@@ -162,6 +164,10 @@ class SiteController extends Controller
                 {
                     return "Общие вопросы";
                 }
+            case 'site/taraskul_sql':
+                {
+                    return "Тараскуль SQL";
+                }
         }
     }
     public static function renderSidebar()
@@ -175,6 +181,10 @@ class SiteController extends Controller
         }
         elseif ($sidebarName == "Общие вопросы"){
             Obschie::renderSidebar();
+        }
+        elseif ($sidebarName == "Тараскуль SQL"){
+            Taraskulinfo::renderSidebar();
+            Taraskulphones::renderSidebar();
         }
     }
 }
