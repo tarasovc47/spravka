@@ -31,9 +31,9 @@ $this->params['breadcrumbs'][] = $this->title;
             'position:ntext',
             'fullname:ntext',
             'insidephone:ntext',
-            //'outsidephone:ntext',
-            //'floor',
-            //'room:ntext',
+            'outsidephone:ntext',
+            'floor',
+            'room:ntext',
 
             ['class' => 'yii\grid\ActionColumn'],
         ],
