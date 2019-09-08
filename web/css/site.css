@@ -148,7 +148,7 @@ a.desc:after {
 .row {
     margin-left: 0!important;
     margin-right: 0!important;
-    padding-top: 54px!important;
+    padding-top: 25px;
 }
 .my-taraskul-body {
     width: 83.3333333333%;
@@ -162,7 +162,7 @@ a.desc:after {
     position: fixed;
     overflow-y: scroll!important;
     height: 94%;
-    width: 100%;
+    width: auto;
 }
 .obschie-content {
     background-color: white;
@@ -173,4 +173,16 @@ a.desc:after {
     overflow-y: scroll!important;
     height: 94%;
     width: 100%;
+}
+.navbar-left.nav li a{
+    padding: 2px;
+    margin: 0 !important;
+    border-right: 1px solid green;
+}
+.nav-sidebar li a {
+    padding: 5px!important;
+}
+.my-navbar {
+    min-height: 0;
+    margin: 0;
 }

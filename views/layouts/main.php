@@ -32,7 +32,7 @@ AppAsset::register($this);
     <?php
     NavBar::begin([
         'options' => [
-            'class' => 'navbar-inverse navbar-fixed-top',
+            'class' => 'navbar-inverse navbar-fixed-top my-navbar',
         ],
     ]);
     echo Nav::widget([
@@ -47,7 +47,6 @@ AppAsset::register($this);
             ['label' => 'Юридические лица', 'url' => ['/site/about']],
             ['label' => 'Физические лица', 'url' => ['/site/about']],
             ['label' => 'Приложения', 'url' => ['/site/about']],
-            ['label' => 'Акции', 'url' => ['/site/about']],
             ['label' => 'Зона присутствия', 'url' => ['/site/about']],
             Yii::$app->user->isGuest ? (
                 ['label' => 'Админка', 'url' => ['/admin']]

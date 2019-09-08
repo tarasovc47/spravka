@@ -32,7 +32,7 @@ AppAsset::register($this);
     <?php
     NavBar::begin([
         'options' => [
-            'class' => 'navbar navbar-fixed-top',
+            'class' => 'navbar navbar-fixed-top my-navbar',
         ],
     ]);
     echo Nav::widget([
@@ -41,10 +41,11 @@ AppAsset::register($this);
             ['label' => 'Телефонный справочник', 'url' => ['/admin/rkphones']],
             ['label' => 'Тараскуль', 'url' => ['/site/taraskul']],
             //['label' => 'Тараскуль_sql', 'url' => ['/admin/taraskulinfo']],
-            ['label' => 'Тараскуль_sql', 'items' =>
-                ['label' => 'Тараскуль Общая информация', 'url' => '/admin/taraskulinfo'],
-                ['label' => 'Тараскуль Сотрудники', 'url' => '/admin/taraskulphones'],
-                ['label' => 'Тараскуль спальные корпусы', 'url' => '/admin/taraskulcorpus'],
+            ['label' => 'Тараскуль_sql',
+                'items' =>[
+                    ['label' => 'Тараскуль Общая информация', 'url' => '/admin/taraskulinfo'],
+                    ['label' => 'Тараскуль Сотрудники', 'url' => '/admin/taraskulphones'],
+                    ['label' => 'Тараскуль Спальные корпусы', 'url' => '/admin/taraskulcorpus']],
             ],
             ['label' => 'ТСЖ-Сервис', 'url' => ['/site/about']],
             ['label' => 'Инструкция оператора', 'url' => ['/site/about']],
@@ -52,10 +53,9 @@ AppAsset::register($this);
             ['label' => 'Юридические лица', 'url' => ['/site/about']],
             ['label' => 'Физические лица', 'url' => ['/site/about']],
             ['label' => 'Приложения', 'url' => ['/site/about']],
-            ['label' => 'Акции', 'url' => ['/site/about']],
             ['label' => 'Зона присутствия', 'url' => ['/site/about']],
             Yii::$app->user->isGuest ? (
-            ['label' => 'Админка', 'url' => ['/site/login']]
+            ['label' => 'Клиентская часть', 'url' => ['/']]
             ) : (
                 '<li>'
                 . Html::beginForm(['/site/logout'], 'post')
