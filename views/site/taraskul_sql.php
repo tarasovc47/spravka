@@ -47,6 +47,18 @@ use app\models\Taraskulphones;
                 Taraskulphones::taraskulphonesRender();
             ?>
             </table>
+            <h4>Спальные корпуса</h4>
+            <p>Номер телефона = 2 + номер комнаты, за исключением следующих номеров:</p><br>
+            <table class="table">
+                <tr>
+                    <th class="col-md-1">Этаж</th>
+                    <th class="col-md-5">Номер комнаты</th>
+                    <th class="col-md-6">Внутренний номер</th>
+                </tr>
+            </table>
+                <?php
+                    Taraskulcorpus::taraskulcorpusRender();
+                ?>
         </div>
     </div>
 </div>
