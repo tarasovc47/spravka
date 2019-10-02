@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Сен 08 2019 г., 20:19
+-- Время создания: Окт 02 2019 г., 06:06
 -- Версия сервера: 5.6.41
 -- Версия PHP: 7.2.10
 
@@ -126,6 +126,17 @@ CREATE TABLE `taraskulcorpus` (
   `insidephone` text
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
+--
+-- Дамп данных таблицы `taraskulcorpus`
+--
+
+INSERT INTO `taraskulcorpus` (`id`, `title`, `floor`, `room`, `insidephone`) VALUES
+(1, 'АБОНЕМЕНТЫ НОМЕРОВ СПАЛЬНОГО КОРПУСА', 1, '2/101', '22-78'),
+(2, 'АБОНЕМЕНТЫ НОМЕРОВ СПАЛЬНОГО КОРПУСА', 1, '3/101', '23-78'),
+(3, 'АБОНЕНТЫ СПАЛЬНОГО КОРПУСА СПЕЦИАЛИЗИРОВАННОГО ОТДЕЛЕНИЯ ПО ДОЛЕЧИВАНИЮ ПОСЛЕ ТРАВМ СПИННОГО МОЗГА', 1, '1', '36-01'),
+(4, 'АБОНЕНТЫ СПАЛЬНОГО КОРПУСА СПЕЦИАЛИЗИРОВАННОГО ОТДЕЛЕНИЯ ПО ДОЛЕЧИВАНИЮ ПОСЛЕ ТРАВМ СПИННОГО МОЗГА', 2, '18', '36-18'),
+(5, 'АБОНЕМЕНТЫ НОМЕРОВ СПАЛЬНОГО КОРПУСА', 2, '2/105', '22-98');
+
 -- --------------------------------------------------------
 
 --
@@ -176,7 +187,8 @@ CREATE TABLE `taraskulphones` (
 
 INSERT INTO `taraskulphones` (`id`, `department`, `position`, `fullname`, `insidephone`, `outsidephone`, `floor`, `room`) VALUES
 (1, 'Административно-управленческий персонал', 'Директор', 'Мальцев Сергей Владимирович', '20-05', '39-57-05', NULL, '301'),
-(2, 'Административно-управленческий персонал', 'Приемная директора<br>\r\nСекретарь-машинистка', 'Хрусталева Лариса Ильинична', '20-05', '39-57-05', NULL, '301');
+(2, 'Административно-управленческий персонал', 'Приемная директора<br>\r\nСекретарь-машинистка', 'Хрусталева Лариса Ильинична', '20-05', '39-57-05', NULL, '301'),
+(3, 'Заместители директора', 'Главный бухгалтер', 'Каримова Расима Закиевна', '20-02', '39-57-02', NULL, '313');
 
 --
 -- Индексы сохранённых таблиц
@@ -250,7 +262,7 @@ ALTER TABLE `rkphones`
 -- AUTO_INCREMENT для таблицы `taraskulcorpus`
 --
 ALTER TABLE `taraskulcorpus`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
 
 --
 -- AUTO_INCREMENT для таблицы `taraskulinfo`
@@ -262,7 +274,7 @@ ALTER TABLE `taraskulinfo`
 -- AUTO_INCREMENT для таблицы `taraskulphones`
 --
 ALTER TABLE `taraskulphones`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
